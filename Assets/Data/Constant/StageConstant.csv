@@ -1,0 +1,12 @@
+﻿StageType,,
+0,None,
+1,Normal,일반
+2,Boss,보스전투
+999,Max,
+END,,
+MapName,,
+0,None,
+1,bg_100181,
+2,bg_100171,
+999,Max,
+END,,

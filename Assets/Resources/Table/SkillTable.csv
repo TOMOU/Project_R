@@ -1,0 +1,31 @@
+﻿ID,name,keyFrame,List.skillType1,List.skillTeam1,List.skillTarget1,List.skillProperty1,List.value1,List.skillType2,List.skillTeam2,List.skillTarget2,List.skillProperty2,List.value2,List.skillType3,List.skillTeam3,List.skillTarget3,List.skillProperty3,List.value3
+0,힐 올,0.6,Heal,Ally,All,Heal_Oneshot,3,None,None,None,None,0,None,None,None,None,0
+1,메르헨 가든,0.7,Buff,Ally,All,PhysicalDefence,20,Buff,Ally,All,MagicalDefence,20,Buff,Ally,All,TP,300
+2,애로우 레인,0.5,Damage,Enemy,Area,PhysicalDamage,2.2,None,None,None,None,0,None,None,None,None,0
+3,소드 오브 피닉스,0.58,Damage,Enemy,All,PhysicalDamage,2.2,Debuff,Enemy,All,Stun,0,None,None,None,None,0
+4,인법 작열지옥,0.6,Damage,Enemy,All,PhysicalDamage,2.2,Debuff,Enemy,All,Burn,100,None,None,None,None,0
+5,버밀리온 바이트,0.57,Damage,Enemy,Area,MagicalDamage,3,Heal,Ally,Me,Heal_Oneshot,3,None,None,None,None,0
+6,인페르노 실드,0.35,Buff,Ally,Me,PhysicalShield,2000,Buff,Ally,Me,MagicalShield,2000,None,None,None,None,0
+7,세이크리드 퍼니쉬,0.22,Damage,Enemy,One,PhysicalDamage,3,Buff,Ally,Me,PhysicalShield,2000,None,None,None,None,0
+8,오로라,0.52,Buff,Ally,All,PhysicalDamage,20,Buff,Ally,All,MagicalDamage,20,Heal,Ally,Me,Heal_Oneshot,2.2
+9,그림 버스트,0.4,Damage,Enemy,All,MagicalDamage,2.2,None,None,None,None,0,None,None,None,None,0
+10,플라워 샷,0.4,Damage,Enemy,One,MagicalDamage,1.5,None,None,None,None,0,None,None,None,None,0
+11,마호마호 힐,0.35,Heal,Ally,HP,Heal_Oneshot,2.2,None,None,None,None,0,None,None,None,None,0
+12,컨센트레이션,0.75,Buff,Ally,Me,PhysicalDamage,50,Buff,Ally,Me,Critical,50,None,None,None,None,0
+13,파이어 슬래시,0.57,Damage,Enemy,Area,PhysicalDamage,1.5,None,None,None,None,0,None,None,None,None,0
+14,선풍격,0.46,Damage,Enemy,Area,PhysicalDamage,1.5,None,None,None,None,0,None,None,None,None,0
+15,블리딩 블래스트,0.66,Damage,Enemy,One,MagicalDamage,2.2,Heal,Ally,Me,Heal_Oneshot,-1.5,None,None,None,None,0
+16,브레이브 리커버리,0.43,Heal,Ally,HP,Heal_Tick,150,None,None,None,None,0,None,None,None,None,0
+17,세인트 힐,0.42,Heal,Ally,HP,Heal_Oneshot,2.2,None,None,None,None,0,None,None,None,None,0
+18,트라이 슬래시,0.56,Damage,Enemy,One,PhysicalDamage,1.5,None,None,None,None,0,None,None,None,None,0
+19,썬더 볼,0.7,Damage,Enemy,One,MagicalDamage,2.2,None,None,None,None,0,None,None,None,None,0
+20,플로럴 실드,0.35,Buff,Ally,All,PhysicalDefence,20,None,None,None,None,0,None,None,None,None,0
+21,마호마호 다크니스,0.32,Debuff,Enemy,One_Second,Blind,0,None,None,None,None,0,None,None,None,None,0
+22,브레이크 애로우,0.48,Damage,Enemy,One,PhysicalDamage,2.2,None,None,None,None,0,None,None,None,None,0
+23,엘레강스한 응원,0.37,Buff,Ally,One,TP,300,None,None,None,None,0,None,None,None,None,0
+24,화염선,0.65,Damage,Enemy,One,PhysicalDamage,2.2,None,None,None,None,0,None,None,None,None,0
+25,블러드 스피어,0.36,Damage,Enemy,Area,MagicalDamage,2.2,Heal,Ally,Me,Heal_Oneshot,-1.5,None,None,None,None,0
+26,아머 브레이크,0.48,Damage,Enemy,One,PhysicalDamage,1.5,Debuff,Enemy,One,PhysicalDefence,-20,Debuff,Enemy,One,KnockBack,0
+27,프로텍션,0.42,Buff,Ally,HP,PhysicalShield,2000,Buff,Ally,HP,Heal_Tick,100,None,None,None,None,0
+28,스피드 업,0.39,Buff,Ally,All,PhysicalDamage,20,Buff,Ally,All,Speed,0.8,None,None,None,None,0
+29,아머 다운,0.69,Debuff,Enemy,One,PhysicalDefence,-20,Debuff,Enemy,One,MagicalDefence,-20,None,None,None,None,0

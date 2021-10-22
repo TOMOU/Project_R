@@ -1,0 +1,116 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: LobbyFormationDialog
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 68aebc12192b09d4b912bb7f63b8d257, type: 3}
+    totalSpriteSurfaceArea: 7178321
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: ff605910f116f9841b101753fd549002, type: 3}
+  - {fileID: 21300000, guid: 40e76a400ff5dac48bcc13d3ed4c22fb, type: 3}
+  - {fileID: 21300000, guid: 6c109f501b6a9384aaa02cc134824b52, type: 3}
+  - {fileID: 21300000, guid: b9308890ddaef8544bfdeae000ba4296, type: 3}
+  - {fileID: 21300000, guid: cf1560c07e13e544795c819def17a045, type: 3}
+  - {fileID: 21300000, guid: 22cb15c075214664996c06c28dd8667d, type: 3}
+  - {fileID: 21300000, guid: 10fcaec18a9a10444884505f12cd1c30, type: 3}
+  - {fileID: 21300000, guid: 8c4efe22ecd9bd349b3a48873bc298c9, type: 3}
+  - {fileID: 21300000, guid: 18130703452ec49478f33b8881013718, type: 3}
+  - {fileID: 21300000, guid: 1a4199230a35f3d4dbfcf80dde727aaa, type: 3}
+  - {fileID: 21300000, guid: 6d7f9943e77f78d4a8dd8871c5b9b693, type: 3}
+  - {fileID: 21300000, guid: 7fbd826428938034d8e06e97e55ff9eb, type: 3}
+  - {fileID: 21300000, guid: 25a96545ff1dcde4d9dec6ec5f03ebaa, type: 3}
+  - {fileID: 21300000, guid: f4667c451e32f5647a95ffe7437b996e, type: 3}
+  - {fileID: 21300000, guid: 1afa8f45f764898478e231a3ad27ecb6, type: 3}
+  - {fileID: 21300000, guid: 003bcc950c00e0c4882ff9dbdcbf702d, type: 3}
+  - {fileID: 21300000, guid: 012b25f56ddac77429f0fdcf129a1a5d, type: 3}
+  - {fileID: 21300000, guid: beca6716c3b78af44b5039a96f38c957, type: 3}
+  - {fileID: 21300000, guid: 617dba16b38247f4cb855e3c7dac5a41, type: 3}
+  - {fileID: 21300000, guid: 55dd7686813c25d4e9c9a793f7b95106, type: 3}
+  - {fileID: 21300000, guid: 4773f7b6ace3e084da068b009d2c9132, type: 3}
+  - {fileID: 21300000, guid: 00f27c07f0b4fbf4e838c47b0f9ac9cf, type: 3}
+  - {fileID: 21300000, guid: 3e4d1f173f3c07941825e973551d08bd, type: 3}
+  - {fileID: 21300000, guid: 376426c78dde3864e8370827a9df09de, type: 3}
+  - {fileID: 21300000, guid: c819e0e716426564fa23655b9d6ddd14, type: 3}
+  - {fileID: 21300000, guid: 325c5b98fa1ea1141ac01cf4dfc21f4a, type: 3}
+  - {fileID: 21300000, guid: d50bf7e8a319b4e4ab08cf1fccbf19ae, type: 3}
+  - {fileID: 21300000, guid: 94da070ae281b3b4aa436d916f6f67b6, type: 3}
+  - {fileID: 21300000, guid: 05cba4ba44992b545b4f617b8f659f53, type: 3}
+  - {fileID: 21300000, guid: eed0240b01de8284f92e07fe75d08e69, type: 3}
+  - {fileID: 21300000, guid: 38cdab4bc5bf70841a9bc432eaf2a061, type: 3}
+  - {fileID: 21300000, guid: 178b7e6b69803504ab6914571db01882, type: 3}
+  - {fileID: 21300000, guid: 2fc17b7b94184bc4792a9f783064d770, type: 3}
+  - {fileID: 21300000, guid: 25af20cb70304c6469293493e842c873, type: 3}
+  - {fileID: 21300000, guid: 437a684c61d33f241bd17cfa03735e93, type: 3}
+  - {fileID: 21300000, guid: edb09f9d5272acf4cb1c109065016484, type: 3}
+  - {fileID: 21300000, guid: 81156acec2497524bb543e2e55c6ac5b, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - formation_slot_empty_32
+  - formation_slot_empty_12
+  - formation_img_card_board
+  - formation_slot_in_21
+  - formation_slot_empty_31
+  - formation_slot_empty_13
+  - formation_slot_empty_11
+  - formation_slot_empty_21
+  - formation_slot_in_11
+  - formation_slot_base_13
+  - formation_slot_empty_33
+  - formation_img_board
+  - formation_slot_in_32
+  - formation_slot_base_22
+  - formation_slot_in_23
+  - formation_btn_gridBig
+  - formation_slot_empty_23
+  - formation_slot_base_12
+  - formation_slot_base_21
+  - formation_slot_in_31
+  - formation_tg_disable2
+  - formation_slot_base_33
+  - formation_slot_base_11
+  - formation_btn_gridSmall
+  - formation_slot_in_33
+  - formation_slot_empty_22
+  - formation_tg_disable
+  - formation_slot_base_23
+  - formation_slot_base_31
+  - formation_img_boardTop
+  - formation_slot_base_32
+  - formation_tg_Enable
+  - formation_slot_in_22
+  - formation_slot_in_12
+  - formation_slot_in_13
+  - formation_img_card_frame
+  - formation_btn_complete
+  m_Tag: LobbyFormationDialog
+  m_IsVariant: 0

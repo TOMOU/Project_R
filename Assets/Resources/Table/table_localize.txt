@@ -1,0 +1,278 @@
+int	string	string	string	string	string	string	string	end
+code	korean	english	japanese	france	german	chineseSimplified	chineseTraditional	end
+0	한국어	English	日本語	français	Deutsch	中國語(简体)	中國語(繁体)	NONE
+1	게임 종료	Game Quit						NONE
+2	게임을 종료하시겠습니까?	Are you sure you want to quit the game?						NONE
+3	예	Yes						NONE
+4	아니오	No						NONE
+5	Touch to start.	Touch to start.						NONE
+6	확인	Confirm						NONE
+7	일시정지	Pause						NONE
+8	뒤로가기	Back						NONE
+9	설정	Option						NONE
+10	포기하기	Give up						NONE
+11	전투를 포기하고 로비로 이동하시겠습니까?	Do you want to give up the battle and move to the lobby?						NONE
+12	업데이트 예정입니다.	Will be updated soon.						NONE
+13	알림	Notice						NONE
+14	아직 열리지 않은 챕터입니다.	This chapter is not opened yet.						NONE
+15	닉네임을 입력해 주세요	Please enter your nickname.						NONE
+16	닉네임을 {0}으로 정하시겠습니까?	Would you like to nickname it {0}?						NONE
+17	아직 열리지 않은 스테이지입니다.	This stage is not opened yet.						NONE
+18	몹 제거	OneKill						NONE
+19	다음	Next						NONE
+20	다시하기	Retry						NONE
+21	로비	Lobby						NONE
+22	나가기	Quit						NONE
+23	언어 설정	Localize Setting						
+24	닉네임 설정	Create Nickname						
+1001	캐릭터	Character						NONE
+1002	장비	Equip						NONE
+1003	별자리	Stella						NONE
+1004	상점	Shop						NONE
+1005	소환	Summon						NONE
+1006	미션	Mission						NONE
+1007	월드	World						NONE
+1008	이야기	Story						NONE
+1009	길드	Guild						NONE
+1010	인벤토리	Inventory						NONE
+1011	도감	Collection						NONE
+1012	선물	Present						NONE
+2001	릴리스가 바벨 타워 연구소에서 자원을 회수 중입니다.	Lilith is retrieving resources from the Babel Tower Laboratory.						NONE
+2002	치우가 훈련을 마치고, 복귀하고 있습니다.	Chiyou is returning from training.						NONE
+2003	시황제가 병마용을 정비 중입니다.	Qin Shi Huang is repairing the soldier statue.						NONE
+2004	알렉산더가 머나먼 원정길에서 복귀 중입니다.	Alexander is returning from a long expedition						NONE
+2005	판도라가 새로운 DNA 개체를 탐색하고 있습니다.	Pandora is exploring a new DNA object.						NONE
+3001	목록	List						NONE
+3002	정보	Info						NONE
+3003	성장	Growth						NONE
+3004	진화	Evolve						NONE
+3005	특화	Specialize						NONE
+3006	스킬	Skill						NONE
+3007	능력치	Status						NONE
+3008	프로필	Profile						NONE
+3009	전투력	Combat Power						NONE
+3010	물리공격력	P. ATK						NONE
+3011	물리방어력	P. DEF						NONE
+3012	체력	HP						NONE
+3013	명중	Accurancy						NONE
+3014	치명타 공격력	Cri. dmg						NONE
+3015	체력 흡수	Absorb HP						NONE
+3016	호감도	Affection						NONE
+3017	마법 공격력	M. ATK						NONE
+3018	마법 방어력	M. DEF						NONE
+3019	회피	Dodge						NONE
+3020	치명타율	Cri. Ratio						NONE
+3021	체력 회복	Rec. HP						NONE
+3022	마나 회복	Rec. SP						NONE
+3023	나이	Age						NONE
+3024	생일	Birth						NONE
+3025	출신	Native						NONE
+3026	특기	Specialty						NONE
+3027	신장	Height						NONE
+3028	체중	Weight						NONE
+3029	소속	Union						NONE
+3030	레벨	Level						NONE
+3031	전투력	Combat Power						NONE
+3032	전투력	Combat Power						NONE
+3033	호감도	Affection						NONE
+3034	자동 성장	Auto-Growth						NONE
+3035	필요 골드	Gold						NONE
+3036	캐릭터 관리	Character						NONE
+3037	등급순	by Grade						NONE
+3038	레벨순	by Level						NONE
+3039	획득순	by Order						NONE
+3040	크게보기	Zoom						
+3041	메인설정	Leader						
+3042	대사보기	Speech						
+3043	호감도	Affection						
+4001	장비 관리	Equip						NONE
+4002	자동 장착 설정	Setting Auto-Equip						NONE
+4003	장비\n해제	Unequip						NONE
+4004	일괄\n해제	Unequip\nAll						NONE
+4005	분해	Decomposition						NONE
+4006	자동장착	Auto-Equip						NONE
+4007	장비 설명은 추후 추가될 예정입니다.	Equip description will be added later.						NONE
+4008	강화	Enhance						NONE
+4009	능력해방	Transcend						NONE
+4010	장착해제	Unequip						NONE
+5001	플래티넘 뽑기 개최!!	Platinum summon is beginned!!						NONE
+5002	100연차 달성 시, 5성 캐릭터 확정 지급!	If you paid for 100 character, give 5th grade character!						NONE
+5003	1회 소환	Summon 1						NONE
+5004	10회 소환	Summon 10						NONE
+5005	모두 열기	Open All						NONE
+5006	확인	OK						NONE
+6001	미션	Mission						NONE
+6002	모험의 시작 I	The Beginning of Adventure I						NONE
+6003	Chapter.1 의문의 그녀 1-1 클리어	Clear Chapter.1 Misterious girl 1-1.						NONE
+6004	모험의 시작 II	The Beginning of Adventure II						NONE
+6005	Chapter.1 의문의 그녀 1-2 클리어	Clear Chater.1 Misterious girl 1-2.						NONE
+6006	공학 기술의 시작	The Beginning of engineering						NONE
+6007	바벨 타워 연구소에서 DNA 추출	Extract DNA in babel tower laboratory.						NONE
+6008	다른 차원의 시작	Start of another dimension						NONE
+6009	차원 던전 난이도 쉬움 클리어	Clear dimension dungeon easy level.						NONE
+6010	다른 세계의 자격자	Selectee of the other worlds						NONE
+6011	콜로세움 내 아레나 1:1 대전 1회 하기	Challenge 1:1 battle in colosseum.						NONE
+6012	보상	Reward						NONE
+6013	추적	Trace						NONE
+6014	완료	Complete						NONE
+6015	진행중	Progress						NONE
+7001	월드	World						NONE
+8001	메인 스토리	Main Story						NONE
+8002	의문의 그녀	Misterious girl						NONE
+8003	열쇠	Key						NONE
+8004	신이라 칭하는 자	A man called god						NONE
+8005	J	J						NONE
+8006	NORMAL	NORMAL						NONE
+8007	HARD	HARD						NONE
+8008	VERY HARD	VERY HARD						NONE
+8009	EXTREME	EXTREME						NONE
+9001	차원던전	Dimension Dungeon						NONE
+9002	EASY	EASY						NONE
+9003	NORMAL	NORMAL						NONE
+9004	HARD	HARD						NONE
+9005	VERY HARD	VERY HARD						NONE
+10001	대신전	Sanctuary						NONE
+10002	치우 스토리	Chiyou story						NONE
+10003	릴리스 스토리	Lilith story						NONE
+10004	진시황 스토리	Qin Shi Huang story						NONE
+10005	알렉산더 스토리	Alexander story						NONE
+10006	판도라 스토리	Pandora story						NONE
+11001	바벨 타워	Babel Tower Lab.						NONE
+11002	{0}층	{0}F						NONE
+11003	타워 공략	Tower conquer						NONE
+11004	연구소	Laboratory						NONE
+11005	채굴 향상	Upgrade mining						NONE
+11006	가동중	Progress						NONE
+11007	바벨 자원\n일괄 수령	Babel Resource\nCollect All						NONE
+11008	연구센터\n기술증진	Upgrade\nLaboratory						NONE
+11009	DNA개발\n일괄취득	Collect All\nDNA						NONE
+11010	개발키트 해제	Unlock development kit						NONE
+11011	LOCKED	LOCKED						NONE
+11012	개발 착수	Begin Development						NONE
+11013	즉시 개발	Development Immediately						NONE
+11014	개발 완료	Development Complete						NONE
+11015	주형	Mold						NONE
+11016	세포조직	Cell						NONE
+11017	신경조직	Nerve						NONE
+11018	생체코드	Bio code						NONE
+11019	RESET	RESET						NONE
+11020	MAX	MAX						NONE
+11021	DNA 추출	Extract DNA						NONE
+11022	선택완료	Select						NONE
+11023	재료 수급 완료	Collect Resource Complete						NONE
+11024	개발\n레벨\n{0}	Dev\nLevel\n{0}						NONE
+11025	공격형	Attack						NONE
+11026	방어형	Defence						NONE
+11027	지원형	Support						NONE
+11028	레벨순	by Level						NONE
+11029	등급순	by Grade						NONE
+11030	획득순	by Order						NONE
+11031	물리	P.						NONE
+11032	마법	M.						NONE
+11033	바벨 타워 {0}층	Babel Tower {0}F						NONE
+12001	콜로세움	Colosseum						NONE
+12002	시즌 보상	Reward						NONE
+12003	팀 편성	Formation						NONE
+12004	결투장 정보	Colosseum Info						NONE
+12005	무작위 도전	Random						NONE
+12006	도전	Challenge						NONE
+12007	전체	ALL						NONE
+12008	등급	RATING						NONE
+12009	친구	FRIEND						NONE
+12010	길드	GUILD						NONE
+12011	챌린저	CHALLENGER						NONE
+12012	그랜드마스터	GRAND MASTER						NONE
+12013	마스터	MASTER						NONE
+12014	다이아	DIAMOND						NONE
+12015	플래티넘	PLATINUM						NONE
+12016	골드	GOLD						NONE
+12017	실버	SILVER						NONE
+12018	브론즈	BRONZE						NONE
+12019	아이언	IRON						NONE
+12020	코퍼	COPPER						NONE
+12021	승리 시	win						NONE
+12022	20점 획득	20pt						NONE
+12023	선택	Select						NONE
+12024	공격력 증가	Increase Damage						NONE
+12025	크리티컬 증가	Increase Critical						NONE
+12026	방어력 증가	Increase Defence						NONE
+12027	편성	Formation						NONE
+12028	전투 시작	Battle Start						NONE
+12029	남은 매칭 시간	Remain Time						NONE
+12030	5분 남음	5min						NONE
+12031	{0:##,##0}점	{0:##,##0}pt						NONE
+13001	보스전	Boss						NONE
+13002	대기	Hold						NONE
+13003	보스 섬멸	Battle Start						NONE
+14001	보상	Reward						NONE
+14002	주형	Mold						NONE
+14003	세포조직	Cell						NONE
+14004	신경조직	Nerve						NONE
+14005	생체코드	Bio code						NONE
+14006	DNA-불사	DNA-Immortal						NONE
+14007	확인	Confirm						NONE
+14008	바로 장착	Equip						NONE
+15001	스테이지 정보	Stage Info						NONE
+15002	파티 편성	Formation						NONE
+15003	탐색	Explore						NONE
+15004	취소	Cancel						NONE
+15005	도전하기	Battle						NONE
+16001	팀 편성	Formation						NONE
+16002	공격형	Attack						NONE
+16003	방어형	Defence						NONE
+16004	지원형	Support						NONE
+16005	등급순	by Grade						NONE
+16006	레벨순	by Level						NONE
+16007	획득순	by Order						NONE
+16008	물리	P.						NONE
+16009	마법	M.						NONE
+16010	편성완료	Confirm						NONE
+16011	팀에 캐릭터가 하나라도 배치되어야 합니다.	At least one character must be placed in the team.						NONE
+16012	이미 팀 인원이 가득 찼습니다.	The team is already full.						NONE
+17001	앞으로 {0}	Need to {0}						NONE
+17002	호감도	Affection						NONE
+100100211	릴리스의 스테이터스 설명입니다.	릴리스의 스테이터스 설명입니다.						NONE
+101100211	릴리스의 프로필 설명입니다.	릴리스의 프로필 설명입니다.						NONE
+102100211	15세	15세						NONE
+103100211	릴리스의 생일	릴리스의 생일						NONE
+104100211	릴리스의 출신	릴리스의 출신						NONE
+105100211	릴리스의 특기	릴리스의 특기						NONE
+106100211	160cm	160cm						NONE
+107100211	릴리스의 체중	릴리스의 체중						NONE
+108100211	릴리스의 소속	릴리스의 소속						NONE
+100101031	공격 및 방어 모두 밸런스 있게 갖춘 광기의 검제.\n강력한 체인소드 스킬을 통해 범위 공격을 하며,\n체력 흡수를 통해 안정적인 전열 역할을 수행해낸다.	공격 및 방어 모두 밸런스 있게 갖춘 광기의 검제.\n강력한 체인소드 스킬을 통해 범위 공격을 하며,\n체력 흡수를 통해 안정적인 전열 역할을 수행해낸다.						NONE
+101101031	팔 6개에 눈 4개가 달리고, 소의 뿔과 발굽, 구리로 된 머리와 쇠로 된 이마가 있었으며, 맨몸으로 맹수와 대적할 수 있을 만큼 힘도 굉장히 강했다.\n도술까지 구사할 수 있어 그 누구도 대적할 수 없었다.	팔 6개에 눈 4개가 달리고, 소의 뿔과 발굽, 구리로 된 머리와 쇠로 된 이마가 있었으며, 맨몸으로 맹수와 대적할 수 있을 만큼 힘도 굉장히 강했다.\n도술까지 구사할 수 있어 그 누구도 대적할 수 없었다.						NONE
+102101031	17세	17세						NONE
+103101031	치우의 생일	치우의 생일						NONE
+104101031	치우의 출신	치우의 출신						NONE
+105101031	치우의 특기	치우의 특기						NONE
+106101031	172cm	172cm						NONE
+107101031	치우의 체중	치우의 체중						NONE
+108101031	치우의 소속	치우의 소속						NONE
+100101131	진시황의 스테이터스 설명입니다.	진시황의 스테이터스 설명입니다.						NONE
+101101131	진시황의 프로필 설명입니다.	진시황의 프로필 설명입니다.						NONE
+102101131	12세	12세						NONE
+103101131	진시황의 생일	진시황의 생일						NONE
+104101131	진시황의 출신	진시황의 출신						NONE
+105101131	진시황의 특기	진시황의 특기						NONE
+106101131	140cm	140cm						NONE
+107101131	진시황의 체중	진시황의 체중						NONE
+108101131	진시황의 소속	진시황의 소속						NONE
+100102831	알렉산더의 스테이터스 설명입니다.	알렉산더의 스테이터스 설명입니다.						NONE
+101102831	알렉산더의 프로필 설명입니다.	알렉산더의 프로필 설명입니다.						NONE
+102102831	16세	16세						NONE
+103102831	알렉산더의 생일	알렉산더의 생일						NONE
+104102831	알렉산더의 출신	알렉산더의 출신						NONE
+105102831	알렉산더의 특기	알렉산더의 특기						NONE
+106102831	160cm	160cm						NONE
+107102831	알렉산더의 체중	알렉산더의 체중						NONE
+108102831	알렉산더의 소속	알렉산더의 소속						NONE
+100103031	판도라의 스테이터스 설명입니다.	판도라의 스테이터스 설명입니다.						NONE
+101103031	판도라의 프로필 설명입니다.	판도라의 프로필 설명입니다.						NONE
+102103031	16세	16세						NONE
+103103031	판도라의 생일	판도라의 생일						NONE
+104103031	판도라의 출신	판도라의 출신						NONE
+105103031	판도라의 특기	판도라의 특기						NONE
+106103031	164cm	164cm						NONE
+107103031	40kg	40kg						NONE
+108103031	판도라의 소속	판도라의 소속						NONE

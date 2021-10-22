@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: LobbyBabelDialog
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 251de36fb66eb214fa81d0fb8383793b, type: 3}
+    totalSpriteSurfaceArea: 14852411
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 0f093f0050d6f704e81c5bad5090b440, type: 3}
+  - {fileID: 21300000, guid: b25c87906f48d4742a9742a61a6a28bd, type: 3}
+  - {fileID: 21300000, guid: 91dfbb1123ff30644a39ba04d0ca03d2, type: 3}
+  - {fileID: 21300000, guid: ef4e9551bbce54f47b24733a71a1f4d0, type: 3}
+  - {fileID: 21300000, guid: 66fc6ba2ba7239240b990ca30af2d40d, type: 3}
+  - {fileID: 21300000, guid: f56343c2c060cdf4994013f9ed5fdd00, type: 3}
+  - {fileID: 21300000, guid: 426794733dfea254c8d3d5a7e6be1269, type: 3}
+  - {fileID: 21300000, guid: 7913e393401260e408aed60c053f77dd, type: 3}
+  - {fileID: 21300000, guid: be8935442065f554c88a559d010fd1a5, type: 3}
+  - {fileID: 21300000, guid: b0e3c27457dc3434a8f3901c85b65b55, type: 3}
+  - {fileID: 21300000, guid: fce4d4b4be4f0d44dbb150158be52585, type: 3}
+  - {fileID: 21300000, guid: 2fea98b45f846184a888692787034028, type: 3}
+  - {fileID: 21300000, guid: 60a103d4e414bd14585232338fb2f3bf, type: 3}
+  - {fileID: 21300000, guid: bd3417358fc1be64da74b2457f0bcd2f, type: 3}
+  - {fileID: 21300000, guid: 34b0ff5546f0ed64eba676af17193296, type: 3}
+  - {fileID: 21300000, guid: 8647e88598962fc47848da83d2a52844, type: 3}
+  - {fileID: 21300000, guid: ab0df046b70490c45b9e377108a3ed2b, type: 3}
+  - {fileID: 21300000, guid: f6d1eb37ebcd98c4bad80bb50894e9bc, type: 3}
+  - {fileID: 21300000, guid: de37bf0876315dc4fb59d3f0f498ca10, type: 3}
+  - {fileID: 21300000, guid: 2c1f6718fe5fbf14d8a32ddfe443866f, type: 3}
+  - {fileID: 21300000, guid: 75294728c0f1d9e429741c7ce4563218, type: 3}
+  - {fileID: 21300000, guid: 8cea7098a79572742b9d75e28f57f351, type: 3}
+  - {fileID: 21300000, guid: 70da7ec8234ef8948a188a6b7daed75a, type: 3}
+  - {fileID: 21300000, guid: 07dfcf79f18d9f14ebb77936961ef4b5, type: 3}
+  - {fileID: 21300000, guid: f46e620cf978c9b4eadf6619393cf407, type: 3}
+  - {fileID: 21300000, guid: c8cca82e78f703345a08e192bc028371, type: 3}
+  - {fileID: 21300000, guid: 95998d3e26f1f6f44af65538de509e4e, type: 3}
+  - {fileID: 21300000, guid: f25a26beb282ffc43a0e9cba4cab8942, type: 3}
+  - {fileID: 21300000, guid: c8d4a31ff0978014fb8015cef905bb2d, type: 3}
+  - {fileID: 21300000, guid: ff24b91f8be27184d8a26e760d6f2804, type: 3}
+  - {fileID: 21300000, guid: 7ebf4ebfd5b910b4b897d8e95a642591, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - babel_btn_inactive_1
+  - production_img_board
+  - babel_img_lock
+  - production_btn_minus
+  - production_btn_left
+  - production_btn_right
+  - babel_img_frame_stage
+  - labo_btn_2
+  - babel_img_frame_card
+  - babel_img_floor_inactive
+  - babel_img_board_stage
+  - production_btn_confirm
+  - production_btn_function
+  - labo_img_board
+  - babel_img_board
+  - babel_btn_inactive_2
+  - production_btn_plus
+  - production_img_flask_2
+  - babel_btn_3
+  - production_img_flask_0
+  - babel_img_board_card_inactive
+  - production_img_flask_3
+  - labo_img_energySlider_base
+  - babel_btn_2
+  - babel_btn_1
+  - labo_btn_1
+  - labo_img_enegySlider_value
+  - production_img_board_material
+  - babel_img_floor_active
+  - production_img_flask_1
+  - babel_img_board_card_active
+  m_Tag: LobbyBabelDialog
+  m_IsVariant: 0

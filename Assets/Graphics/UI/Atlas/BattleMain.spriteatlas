@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BattleMain
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: dd0608b3b56e4cb44a969444f4aee4bc, type: 3}
+    totalSpriteSurfaceArea: 560627
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 60c553c0129648c459d676cc7e8070ad, type: 3}
+  - {fileID: 21300000, guid: a48c5b017c788f54f990a11b55d52fc5, type: 3}
+  - {fileID: 21300000, guid: bae275714358337439c4e44cd6fcab09, type: 3}
+  - {fileID: 21300000, guid: 694b3724472de04419ba96a800e5fa6e, type: 3}
+  - {fileID: 21300000, guid: 639afdd4d91b4c646a61547e9dd8dad7, type: 3}
+  - {fileID: 21300000, guid: 008904051e32b2f4ca403239bdb8ffb5, type: 3}
+  - {fileID: 21300000, guid: 0b4e968a58f96254ca0262b813e36ee8, type: 3}
+  - {fileID: 21300000, guid: 5bd96b5b6bf23184c9ab60aeffc1bf0f, type: 3}
+  - {fileID: 21300000, guid: 3859c88ca34cc334890adc53faecac6f, type: 3}
+  - {fileID: 21300000, guid: 55d56e8c8fde6d04e898cae15a684ce1, type: 3}
+  - {fileID: 21300000, guid: 457ed46e041b1cd4bac4cef0bc0c3a7e, type: 3}
+  - {fileID: 21300000, guid: a62d5aef4f9970d4a9a8b7fa71e828b3, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - battle_btn_speed_ani
+  - battle_btn_speed_on
+  - battle_btn_auto_ani
+  - battle_img_cardslot_back
+  - battle_img_progress_sp
+  - battle_img_cardslot_frame
+  - battle_btn_auto_on
+  - battle_btn_auto_off
+  - battle_btn_speed_off
+  - battle_img_progress_back
+  - battle_btn_pause
+  - battle_img_progress_hp
+  m_Tag: BattleMain
+  m_IsVariant: 0

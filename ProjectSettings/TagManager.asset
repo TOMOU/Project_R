@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - UICamera
+  - Unit_Blue
+  - Unit_Red
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - LetterBox
+  - Global
+  - Post Processing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Character_Invisible
+    uniqueID: 4283547691
+    locked: 0
+  - name: BG
+    uniqueID: 1326646427
+    locked: 0
+  - name: Character
+    uniqueID: 2209511095
+    locked: 0
+  - name: FX
+    uniqueID: 3590862195
+    locked: 0
+  - name: Skill_Field
+    uniqueID: 2402282703
+    locked: 0
+  - name: SkillFX
+    uniqueID: 92694455
+    locked: 0
+  - name: Out
+    uniqueID: 1315964479
+    locked: 0

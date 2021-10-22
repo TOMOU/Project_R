@@ -1,0 +1,118 @@
+
+skeletonB.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LA1
+  rotate: false
+  xy: 468, 30
+  size: 176, 255
+  orig: 176, 255
+  offset: 0, 0
+  index: -1
+LA2
+  rotate: true
+  xy: 761, 1444
+  size: 136, 123
+  orig: 136, 123
+  offset: 0, 0
+  index: -1
+LA3
+  rotate: false
+  xy: 839, 360
+  size: 182, 193
+  orig: 182, 193
+  offset: 0, 0
+  index: -1
+LL1
+  rotate: false
+  xy: 699, 1203
+  size: 91, 185
+  orig: 91, 185
+  offset: 0, 0
+  index: -1
+LL2
+  rotate: true
+  xy: 2, 2
+  size: 210, 230
+  orig: 210, 230
+  offset: 0, 0
+  index: -1
+RA1
+  rotate: false
+  xy: 602, 1582
+  size: 360, 464
+  orig: 360, 464
+  offset: 0, 0
+  index: -1
+RA2
+  rotate: false
+  xy: 792, 1323
+  size: 114, 119
+  orig: 114, 119
+  offset: 0, 0
+  index: -1
+RA3
+  rotate: true
+  xy: 602, 1390
+  size: 190, 157
+  orig: 190, 157
+  offset: 0, 0
+  index: -1
+RL1
+  rotate: false
+  xy: 602, 1202
+  size: 95, 186
+  orig: 95, 186
+  offset: 0, 0
+  index: -1
+RL2
+  rotate: true
+  xy: 234, 9
+  size: 203, 232
+  orig: 203, 232
+  offset: 0, 0
+  index: -1
+axe
+  rotate: false
+  xy: 2, 1099
+  size: 304, 947
+  orig: 306, 949
+  offset: 1, 1
+  index: -1
+body
+  rotate: true
+  xy: 392, 287
+  size: 266, 445
+  orig: 266, 445
+  offset: 0, 0
+  index: -1
+hammer
+  rotate: false
+  xy: 2, 214
+  size: 388, 883
+  orig: 390, 885
+  offset: 1, 1
+  index: -1
+head
+  rotate: false
+  xy: 392, 555
+  size: 590, 608
+  orig: 590, 608
+  offset: 0, 0
+  index: -1
+sword
+  rotate: false
+  xy: 308, 1165
+  size: 292, 881
+  orig: 294, 884
+  offset: 1, 1
+  index: -1
+눈동자 빛
+  rotate: false
+  xy: 646, 56
+  size: 386, 229
+  orig: 386, 229
+  offset: 0, 0
+  index: -1

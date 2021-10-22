@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: LobbyEquipDialog
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 95455547bf42e9246ad891f0b3802f32, type: 3}
+    totalSpriteSurfaceArea: 8550629
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 5fed413095b81e148824c3ffa54546c6, type: 3}
+  - {fileID: 21300000, guid: b9d765a08a7c7454a916a982d9eea549, type: 3}
+  - {fileID: 21300000, guid: 3b4e87c09dab5ea479a6a25c9471dab6, type: 3}
+  - {fileID: 21300000, guid: bf61eef0ff3eb0842af1804a92f539a1, type: 3}
+  - {fileID: 21300000, guid: 2c1aaf2144d395e40a197db430b03229, type: 3}
+  - {fileID: 21300000, guid: 65388641d09a29f4390a220ead5720e8, type: 3}
+  - {fileID: 21300000, guid: 7af96c711268115409692e9dbe0b1aaf, type: 3}
+  - {fileID: 21300000, guid: dd092ea12c5580b4ea5c4d24c94978a4, type: 3}
+  - {fileID: 21300000, guid: e2211b22ca5dd3d4fad742573343e645, type: 3}
+  - {fileID: 21300000, guid: aeef62c35d639344d985087d79cb80e4, type: 3}
+  - {fileID: 21300000, guid: 7e47e14455a91cb4bbbfde7fd99011fd, type: 3}
+  - {fileID: 21300000, guid: faf987269c4c6cc4e9ec4baa25f6092a, type: 3}
+  - {fileID: 21300000, guid: 2daa7386ebe75024eb20ad85d286ce0c, type: 3}
+  - {fileID: 21300000, guid: 82bd6607a4635dc42b33748a59c6e4cc, type: 3}
+  - {fileID: 21300000, guid: 4ee7ba475994ce040b8aa4a5559acb75, type: 3}
+  - {fileID: 21300000, guid: 8920ac98ca1875244a6fec34b7dda5a5, type: 3}
+  - {fileID: 21300000, guid: c0275fc897f98e3499d2b0fb9a58127d, type: 3}
+  - {fileID: 21300000, guid: a566752942f986e428ac2a85c4e78b96, type: 3}
+  - {fileID: 21300000, guid: 25fc9e6a4cd38724b96e517a1f15d58d, type: 3}
+  - {fileID: 21300000, guid: 0fa1ef7ad5953484283c24e5f0d04fc9, type: 3}
+  - {fileID: 21300000, guid: 5c9d589ab9d613243863aa0efdf68a49, type: 3}
+  - {fileID: 21300000, guid: 5f4596da20986e544b919d6ac696ab32, type: 3}
+  - {fileID: 21300000, guid: e3a6a93bd66ce4346bcba50dfa0d61bd, type: 3}
+  - {fileID: 21300000, guid: 2889f14b3ddc50a4a958d356be993af6, type: 3}
+  - {fileID: 21300000, guid: eb44675b2fd1e1240a35f7e468a540d5, type: 3}
+  - {fileID: 21300000, guid: eb70265ce18ecbd43b15e0640888a453, type: 3}
+  - {fileID: 21300000, guid: ee3a77cce9d8c9e4e8f532e85bb1676e, type: 3}
+  - {fileID: 21300000, guid: f7e3821f44a5fa64eb010412bf56205d, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - equip_btn_strengthen_confirm
+  - equip_btn_selectedToggle
+  - equip_tg_dna
+  - equip_tg_acc
+  - equip_btn_autoEquip
+  - equip_img_line
+  - equip_btn_equipSlot
+  - equip_btn_removeEquip
+  - equip_img_mask_equipment
+  - equip_btn_autoEquip2
+  - equip_tg_all
+  - equip_tg_armor
+  - equip_img_bp
+  - equip_img_board_strengthenPopup
+  - equip_btn_unequip
+  - equip_img_isEquip
+  - equip_img_board_charImage
+  - equip_img_board
+  - equip_img_shadowScroll
+  - equip_img_board_iconSlot
+  - equip_img_mask_character
+  - equip_img_select
+  - equip_btn_strengthen_cancel
+  - equip_img_line2
+  - equip_btn_sort
+  - equip_btn_size
+  - equip_tg_weapon
+  - equip_btn_disassemble
+  m_Tag: LobbyEquipDialog
+  m_IsVariant: 0

@@ -1,0 +1,268 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: LobbyGachaDialog
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: d3b21ee44d15286428ab95ddbf217e68, type: 3}
+    totalSpriteSurfaceArea: 48035080
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 0159d4310575cbd4cb340c13a18339bb, type: 3}
+  - {fileID: 21300000, guid: 0e396a611987fa444b9523eab693294c, type: 3}
+  - {fileID: 21300000, guid: 887c32f110d0f6e43b73a93c09be3abc, type: 3}
+  - {fileID: 21300000, guid: 41171122cfed79d459ef70741b04dfa1, type: 3}
+  - {fileID: 21300000, guid: ca7c2a32fddc97c4d8d16e481b2cd082, type: 3}
+  - {fileID: 21300000, guid: eefaea8226456af468463edc620cd5dc, type: 3}
+  - {fileID: 21300000, guid: c51b4df285075f748b6a58ce7b1ae35d, type: 3}
+  - {fileID: 21300000, guid: 7ca39303e5ea8f04f8f62fb95d2771e2, type: 3}
+  - {fileID: 21300000, guid: 9b098503f0b6a4d4cb72ecfb4ff3fe91, type: 3}
+  - {fileID: 21300000, guid: c17f364319f4f474eaf16cf30af8623d, type: 3}
+  - {fileID: 21300000, guid: 48d2d083d6e4cdd4385f2b1072579fc3, type: 3}
+  - {fileID: 21300000, guid: d1d9c9935b9abd84f9634790d05a1d68, type: 3}
+  - {fileID: 21300000, guid: 0dd65b44137efe440ba282f197030b59, type: 3}
+  - {fileID: 21300000, guid: 9d1b5ab42be43814fa6a958dcb67abcc, type: 3}
+  - {fileID: 21300000, guid: 40fb906535f563a469e1479e86075e26, type: 3}
+  - {fileID: 21300000, guid: 90d112d5c999d3d45935d98c58576fb2, type: 3}
+  - {fileID: 21300000, guid: a7ed67e5b6ca5a84d8950b50a2f82ac7, type: 3}
+  - {fileID: 21300000, guid: 8b63d836bae63614ca266dab8536cc48, type: 3}
+  - {fileID: 21300000, guid: e83045a67abac28409e254d1fedc6efb, type: 3}
+  - {fileID: 21300000, guid: e25ff7a6759d9884991a412d77d82433, type: 3}
+  - {fileID: 21300000, guid: 596cacc64f72a5d4e877a1febbd100aa, type: 3}
+  - {fileID: 21300000, guid: 9a0745f64efc2804889c61569b014c14, type: 3}
+  - {fileID: 21300000, guid: fa4dd82706496b146b07d3f398b47b18, type: 3}
+  - {fileID: 21300000, guid: 5bc08fa718778864d82bfff044d0dfda, type: 3}
+  - {fileID: 21300000, guid: 4f62adc70cd61654a9bfe7088519356e, type: 3}
+  - {fileID: 21300000, guid: 12bd79e78dcf103468eb134993523aeb, type: 3}
+  - {fileID: 2573435157631808458, guid: aa49eb1894ecad44193d0cb695468037, type: 3}
+  - {fileID: 2508056711449418126, guid: aa49eb1894ecad44193d0cb695468037, type: 3}
+  - {fileID: -8077146912543005989, guid: aa49eb1894ecad44193d0cb695468037, type: 3}
+  - {fileID: 5945241751420717745, guid: aa49eb1894ecad44193d0cb695468037, type: 3}
+  - {fileID: 5924682379442804516, guid: aa49eb1894ecad44193d0cb695468037, type: 3}
+  - {fileID: -3597486420582782439, guid: aa49eb1894ecad44193d0cb695468037, type: 3}
+  - {fileID: 379349533223357129, guid: aa49eb1894ecad44193d0cb695468037, type: 3}
+  - {fileID: -7213816119520151, guid: aa49eb1894ecad44193d0cb695468037, type: 3}
+  - {fileID: -7193426323880835878, guid: aa49eb1894ecad44193d0cb695468037, type: 3}
+  - {fileID: 8807421442738621877, guid: aa49eb1894ecad44193d0cb695468037, type: 3}
+  - {fileID: -3761168687832379763, guid: aa49eb1894ecad44193d0cb695468037, type: 3}
+  - {fileID: 292548181036184152, guid: aa49eb1894ecad44193d0cb695468037, type: 3}
+  - {fileID: 7750457011094512078, guid: aa49eb1894ecad44193d0cb695468037, type: 3}
+  - {fileID: -4736089686199258313, guid: aa49eb1894ecad44193d0cb695468037, type: 3}
+  - {fileID: 4767266365463308897, guid: aa49eb1894ecad44193d0cb695468037, type: 3}
+  - {fileID: -4504948808217829154, guid: aa49eb1894ecad44193d0cb695468037, type: 3}
+  - {fileID: 2143577991345542093, guid: aa49eb1894ecad44193d0cb695468037, type: 3}
+  - {fileID: -6428437455049189610, guid: aa49eb1894ecad44193d0cb695468037, type: 3}
+  - {fileID: -557080113103999789, guid: aa49eb1894ecad44193d0cb695468037, type: 3}
+  - {fileID: 4983021288040817342, guid: aa49eb1894ecad44193d0cb695468037, type: 3}
+  - {fileID: 2461991690413100203, guid: aa49eb1894ecad44193d0cb695468037, type: 3}
+  - {fileID: 2432787864371701765, guid: aa49eb1894ecad44193d0cb695468037, type: 3}
+  - {fileID: -3084089733867369524, guid: aa49eb1894ecad44193d0cb695468037, type: 3}
+  - {fileID: -8205827257303249056, guid: aa49eb1894ecad44193d0cb695468037, type: 3}
+  - {fileID: 1004990970725700345, guid: aa49eb1894ecad44193d0cb695468037, type: 3}
+  - {fileID: 8499931443993909489, guid: aa49eb1894ecad44193d0cb695468037, type: 3}
+  - {fileID: -4105556092054871290, guid: aa49eb1894ecad44193d0cb695468037, type: 3}
+  - {fileID: -3404159504103651744, guid: aa49eb1894ecad44193d0cb695468037, type: 3}
+  - {fileID: -5368854437804920821, guid: aa49eb1894ecad44193d0cb695468037, type: 3}
+  - {fileID: -2254789042637588221, guid: aa49eb1894ecad44193d0cb695468037, type: 3}
+  - {fileID: -6144377990203870538, guid: aa49eb1894ecad44193d0cb695468037, type: 3}
+  - {fileID: 1483499830997904009, guid: aa49eb1894ecad44193d0cb695468037, type: 3}
+  - {fileID: -7947409136681269584, guid: aa49eb1894ecad44193d0cb695468037, type: 3}
+  - {fileID: 8022318358910875448, guid: aa49eb1894ecad44193d0cb695468037, type: 3}
+  - {fileID: -6752316152752891904, guid: aa49eb1894ecad44193d0cb695468037, type: 3}
+  - {fileID: -5327951968561780291, guid: aa49eb1894ecad44193d0cb695468037, type: 3}
+  - {fileID: -7441620968663210708, guid: aa49eb1894ecad44193d0cb695468037, type: 3}
+  - {fileID: -1929050857117658834, guid: aa49eb1894ecad44193d0cb695468037, type: 3}
+  - {fileID: 1975220062708250466, guid: aa49eb1894ecad44193d0cb695468037, type: 3}
+  - {fileID: 2669364753496887560, guid: aa49eb1894ecad44193d0cb695468037, type: 3}
+  - {fileID: -3812553139981531881, guid: aa49eb1894ecad44193d0cb695468037, type: 3}
+  - {fileID: 8386217068660415295, guid: aa49eb1894ecad44193d0cb695468037, type: 3}
+  - {fileID: 3101240722832057127, guid: aa49eb1894ecad44193d0cb695468037, type: 3}
+  - {fileID: 847271666882408255, guid: aa49eb1894ecad44193d0cb695468037, type: 3}
+  - {fileID: 2995298763117167793, guid: aa49eb1894ecad44193d0cb695468037, type: 3}
+  - {fileID: -1079984921338622884, guid: aa49eb1894ecad44193d0cb695468037, type: 3}
+  - {fileID: 329905542798840430, guid: aa49eb1894ecad44193d0cb695468037, type: 3}
+  - {fileID: 6526544628478618681, guid: aa49eb1894ecad44193d0cb695468037, type: 3}
+  - {fileID: -8811039647700985833, guid: aa49eb1894ecad44193d0cb695468037, type: 3}
+  - {fileID: -8664139764577582335, guid: aa49eb1894ecad44193d0cb695468037, type: 3}
+  - {fileID: -5940502882810722653, guid: aa49eb1894ecad44193d0cb695468037, type: 3}
+  - {fileID: 8643358323793324857, guid: aa49eb1894ecad44193d0cb695468037, type: 3}
+  - {fileID: -2593910710075337944, guid: aa49eb1894ecad44193d0cb695468037, type: 3}
+  - {fileID: -8529157024818568491, guid: aa49eb1894ecad44193d0cb695468037, type: 3}
+  - {fileID: -7619714658767172311, guid: aa49eb1894ecad44193d0cb695468037, type: 3}
+  - {fileID: 4658805244614815659, guid: aa49eb1894ecad44193d0cb695468037, type: 3}
+  - {fileID: 4761432565401736984, guid: aa49eb1894ecad44193d0cb695468037, type: 3}
+  - {fileID: -885696134673506827, guid: aa49eb1894ecad44193d0cb695468037, type: 3}
+  - {fileID: 1620277148503792958, guid: aa49eb1894ecad44193d0cb695468037, type: 3}
+  - {fileID: 6600617978042434952, guid: aa49eb1894ecad44193d0cb695468037, type: 3}
+  - {fileID: -6109445949719878395, guid: aa49eb1894ecad44193d0cb695468037, type: 3}
+  - {fileID: -977881779655069612, guid: aa49eb1894ecad44193d0cb695468037, type: 3}
+  - {fileID: -7765213340607392927, guid: aa49eb1894ecad44193d0cb695468037, type: 3}
+  - {fileID: -2727554918286670594, guid: aa49eb1894ecad44193d0cb695468037, type: 3}
+  - {fileID: 21300000, guid: d1ecf358bbd779a4da10551484a1a5e9, type: 3}
+  - {fileID: 21300000, guid: cdea6468994b47a4f92176c8b0eee7ec, type: 3}
+  - {fileID: 21300000, guid: ff6f7af89f9408d43a2dc036e09d3ed8, type: 3}
+  - {fileID: 21300000, guid: 276d26196538d304a80f3db21b05b663, type: 3}
+  - {fileID: 21300000, guid: ed8aedb9680e4e14e917396685c663e9, type: 3}
+  - {fileID: 21300000, guid: 4f1c60f90173d494db9ed71bb3942416, type: 3}
+  - {fileID: 21300000, guid: 2ee139ea2f4866b44824d5fac684af82, type: 3}
+  - {fileID: 21300000, guid: 6676e84bcca41af418c15b1a2d5cf5cc, type: 3}
+  - {fileID: 21300000, guid: 57ba825b6de56fe4ea79d6cb7109f85d, type: 3}
+  - {fileID: 21300000, guid: 3d2804bb5fe133a44a1728d543c0e2c9, type: 3}
+  - {fileID: 21300000, guid: e30262bc02471ca47bd691d982917386, type: 3}
+  - {fileID: 21300000, guid: 2540674df6f0da04eb077ac3f0266c35, type: 3}
+  - {fileID: 21300000, guid: ae6b2d7d0f455cd4b9bd75ba99604b55, type: 3}
+  - {fileID: 21300000, guid: 260200bda372b3e4498af7cd7e4718e0, type: 3}
+  - {fileID: 21300000, guid: 4988550e46c9da746b1053dd2bb2bf93, type: 3}
+  - {fileID: 21300000, guid: 6193b44e0de225b4faab2ae91adad85c, type: 3}
+  - {fileID: 21300000, guid: 169d7f8e821f803478ec0955f3456c6b, type: 3}
+  - {fileID: 21300000, guid: 980ddbaefd337ca45878ebd347adce71, type: 3}
+  - {fileID: 21300000, guid: 5468532f57656a7498dc121da0082824, type: 3}
+  - {fileID: 21300000, guid: d322304f8d0f0be46b27044a6b5b7f8e, type: 3}
+  - {fileID: 21300000, guid: f0a55c4fa3737a549b01064347ff9583, type: 3}
+  - {fileID: 21300000, guid: 872dfd7f22d0acb4cb6c746440b94810, type: 3}
+  - {fileID: 21300000, guid: df477bdf9f2d9724ea2626dd717d5e9b, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - gacha_img_card_backFrame
+  - 014
+  - gacha_img_priceIcon
+  - 032
+  - 010
+  - 038
+  - 029
+  - 028
+  - gacha_btn_10
+  - 022
+  - 030
+  - 034
+  - 037
+  - 012
+  - 025
+  - 036
+  - gacha_img_card_frame
+  - 005
+  - 011
+  - 007
+  - 009
+  - gacha_btn_1
+  - 039
+  - 023
+  - 006
+  - 000
+  - gacha_card_effect_18
+  - gacha_card_effect_61
+  - gacha_card_effect_19
+  - gacha_card_effect_60
+  - gacha_card_effect_63
+  - gacha_card_effect_62
+  - gacha_card_effect_14
+  - gacha_card_effect_15
+  - gacha_card_effect_16
+  - gacha_card_effect_17
+  - gacha_card_effect_10
+  - gacha_card_effect_11
+  - gacha_card_effect_12
+  - gacha_card_effect_13
+  - gacha_card_effect_50
+  - gacha_card_effect_51
+  - gacha_card_effect_52
+  - gacha_card_effect_32
+  - gacha_card_effect_53
+  - gacha_card_effect_43
+  - gacha_card_effect_33
+  - gacha_card_effect_54
+  - gacha_card_effect_42
+  - gacha_card_effect_30
+  - gacha_card_effect_55
+  - gacha_card_effect_41
+  - gacha_card_effect_31
+  - gacha_card_effect_25
+  - gacha_card_effect_56
+  - gacha_card_effect_40
+  - gacha_card_effect_36
+  - gacha_card_effect_24
+  - gacha_card_effect_57
+  - gacha_card_effect_47
+  - gacha_card_effect_37
+  - gacha_card_effect_27
+  - gacha_card_effect_58
+  - gacha_card_effect_46
+  - gacha_card_effect_34
+  - gacha_card_effect_26
+  - gacha_card_effect_59
+  - gacha_card_effect_45
+  - gacha_card_effect_35
+  - gacha_card_effect_21
+  - gacha_card_effect_44
+  - gacha_card_effect_20
+  - gacha_card_effect_23
+  - gacha_card_effect_38
+  - gacha_card_effect_22
+  - gacha_card_effect_49
+  - gacha_card_effect_39
+  - gacha_card_effect_48
+  - gacha_card_effect_29
+  - gacha_card_effect_28
+  - gacha_card_effect_5
+  - gacha_card_effect_4
+  - gacha_card_effect_7
+  - gacha_card_effect_6
+  - gacha_card_effect_1
+  - gacha_card_effect_0
+  - gacha_card_effect_3
+  - gacha_card_effect_2
+  - gacha_card_effect_9
+  - gacha_card_effect_8
+  - 017
+  - 015
+  - 003
+  - 008
+  - 018
+  - 024
+  - 019
+  - gacha_slider_miliege_base
+  - 013
+  - 002
+  - 027
+  - 016
+  - 021
+  - 031
+  - 026
+  - gacha_img_card_back
+  - 033
+  - 020
+  - 004
+  - gacha_img_prob
+  - 035
+  - gacha_slider_milieage_value
+  - 001
+  m_Tag: LobbyGachaDialog
+  m_IsVariant: 0

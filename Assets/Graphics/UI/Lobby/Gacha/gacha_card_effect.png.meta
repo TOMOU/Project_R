@@ -1,0 +1,1933 @@
+fileFormatVersion: 2
+guid: aa49eb1894ecad44193d0cb695468037
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6600617978042434952
+    second: gacha_card_effect_0
+  - first:
+      213: 1620277148503792958
+    second: gacha_card_effect_1
+  - first:
+      213: -977881779655069612
+    second: gacha_card_effect_2
+  - first:
+      213: -6109445949719878395
+    second: gacha_card_effect_3
+  - first:
+      213: 4658805244614815659
+    second: gacha_card_effect_4
+  - first:
+      213: -7619714658767172311
+    second: gacha_card_effect_5
+  - first:
+      213: -885696134673506827
+    second: gacha_card_effect_6
+  - first:
+      213: 4761432565401736984
+    second: gacha_card_effect_7
+  - first:
+      213: -2727554918286670594
+    second: gacha_card_effect_8
+  - first:
+      213: -7765213340607392927
+    second: gacha_card_effect_9
+  - first:
+      213: -3761168687832379763
+    second: gacha_card_effect_10
+  - first:
+      213: 292548181036184152
+    second: gacha_card_effect_11
+  - first:
+      213: 7750457011094512078
+    second: gacha_card_effect_12
+  - first:
+      213: -4736089686199258313
+    second: gacha_card_effect_13
+  - first:
+      213: 379349533223357129
+    second: gacha_card_effect_14
+  - first:
+      213: -7213816119520151
+    second: gacha_card_effect_15
+  - first:
+      213: -7193426323880835878
+    second: gacha_card_effect_16
+  - first:
+      213: 8807421442738621877
+    second: gacha_card_effect_17
+  - first:
+      213: 2573435157631808458
+    second: gacha_card_effect_18
+  - first:
+      213: -8077146912543005989
+    second: gacha_card_effect_19
+  - first:
+      213: -1079984921338622884
+    second: gacha_card_effect_20
+  - first:
+      213: 847271666882408255
+    second: gacha_card_effect_21
+  - first:
+      213: -8811039647700985833
+    second: gacha_card_effect_22
+  - first:
+      213: 329905542798840430
+    second: gacha_card_effect_23
+  - first:
+      213: 1483499830997904009
+    second: gacha_card_effect_24
+  - first:
+      213: -3404159504103651744
+    second: gacha_card_effect_25
+  - first:
+      213: 2669364753496887560
+    second: gacha_card_effect_26
+  - first:
+      213: -5327951968561780291
+    second: gacha_card_effect_27
+  - first:
+      213: -8529157024818568491
+    second: gacha_card_effect_28
+  - first:
+      213: -2593910710075337944
+    second: gacha_card_effect_29
+  - first:
+      213: -8205827257303249056
+    second: gacha_card_effect_30
+  - first:
+      213: -4105556092054871290
+    second: gacha_card_effect_31
+  - first:
+      213: -6428437455049189610
+    second: gacha_card_effect_32
+  - first:
+      213: 2461991690413100203
+    second: gacha_card_effect_33
+  - first:
+      213: 1975220062708250466
+    second: gacha_card_effect_34
+  - first:
+      213: 3101240722832057127
+    second: gacha_card_effect_35
+  - first:
+      213: -6144377990203870538
+    second: gacha_card_effect_36
+  - first:
+      213: -6752316152752891904
+    second: gacha_card_effect_37
+  - first:
+      213: 6526544628478618681
+    second: gacha_card_effect_38
+  - first:
+      213: -5940502882810722653
+    second: gacha_card_effect_39
+  - first:
+      213: -2254789042637588221
+    second: gacha_card_effect_40
+  - first:
+      213: 8499931443993909489
+    second: gacha_card_effect_41
+  - first:
+      213: -3084089733867369524
+    second: gacha_card_effect_42
+  - first:
+      213: 4983021288040817342
+    second: gacha_card_effect_43
+  - first:
+      213: 2995298763117167793
+    second: gacha_card_effect_44
+  - first:
+      213: 8386217068660415295
+    second: gacha_card_effect_45
+  - first:
+      213: -1929050857117658834
+    second: gacha_card_effect_46
+  - first:
+      213: 8022318358910875448
+    second: gacha_card_effect_47
+  - first:
+      213: 8643358323793324857
+    second: gacha_card_effect_48
+  - first:
+      213: -8664139764577582335
+    second: gacha_card_effect_49
+  - first:
+      213: 4767266365463308897
+    second: gacha_card_effect_50
+  - first:
+      213: -4504948808217829154
+    second: gacha_card_effect_51
+  - first:
+      213: 2143577991345542093
+    second: gacha_card_effect_52
+  - first:
+      213: -557080113103999789
+    second: gacha_card_effect_53
+  - first:
+      213: 2432787864371701765
+    second: gacha_card_effect_54
+  - first:
+      213: 1004990970725700345
+    second: gacha_card_effect_55
+  - first:
+      213: -5368854437804920821
+    second: gacha_card_effect_56
+  - first:
+      213: -7947409136681269584
+    second: gacha_card_effect_57
+  - first:
+      213: -7441620968663210708
+    second: gacha_card_effect_58
+  - first:
+      213: -3812553139981531881
+    second: gacha_card_effect_59
+  - first:
+      213: 5945241751420717745
+    second: gacha_card_effect_60
+  - first:
+      213: 2508056711449418126
+    second: gacha_card_effect_61
+  - first:
+      213: -3597486420582782439
+    second: gacha_card_effect_62
+  - first:
+      213: 5924682379442804516
+    second: gacha_card_effect_63
+  - first:
+      213: 5177630838458712568
+    second: gacha_card_effect_64
+  - first:
+      213: 8952760905240987998
+    second: gacha_card_effect_65
+  - first:
+      213: 4195815568322133736
+    second: gacha_card_effect_66
+  - first:
+      213: 7113578629417535704
+    second: gacha_card_effect_67
+  - first:
+      213: 8619468395678473843
+    second: gacha_card_effect_68
+  - first:
+      213: -3019418397451606504
+    second: gacha_card_effect_69
+  - first:
+      213: 5351690870054773068
+    second: gacha_card_effect_70
+  - first:
+      213: -8649243507724185539
+    second: gacha_card_effect_71
+  - first:
+      213: -5324490893149298959
+    second: gacha_card_effect_72
+  - first:
+      213: 4416884585596419775
+    second: gacha_card_effect_73
+  - first:
+      213: 6061756259054294375
+    second: gacha_card_effect_74
+  - first:
+      213: -7836034992340451968
+    second: gacha_card_effect_75
+  - first:
+      213: 349026323560493440
+    second: gacha_card_effect_76
+  - first:
+      213: 1257077005392445774
+    second: gacha_card_effect_77
+  - first:
+      213: 2824804484797484151
+    second: gacha_card_effect_78
+  - first:
+      213: -3852519609297226907
+    second: gacha_card_effect_79
+  - first:
+      213: -3921656045434391493
+    second: gacha_card_effect_80
+  - first:
+      213: -926726786923084141
+    second: gacha_card_effect_81
+  - first:
+      213: -7344608692065390903
+    second: gacha_card_effect_82
+  - first:
+      213: -4161762012421928966
+    second: gacha_card_effect_83
+  - first:
+      213: 6726080336746946702
+    second: gacha_card_effect_84
+  - first:
+      213: -3862877085799361776
+    second: gacha_card_effect_85
+  - first:
+      213: 8956919331560774347
+    second: gacha_card_effect_86
+  - first:
+      213: 7406995672994473532
+    second: gacha_card_effect_87
+  - first:
+      213: -4537111823827909864
+    second: gacha_card_effect_88
+  - first:
+      213: 9025447374460191892
+    second: gacha_card_effect_89
+  - first:
+      213: 328977155668914447
+    second: gacha_card_effect_90
+  - first:
+      213: 8372153616093384765
+    second: gacha_card_effect_91
+  - first:
+      213: 537925114353544232
+    second: gacha_card_effect_92
+  - first:
+      213: 1028735365418947092
+    second: gacha_card_effect_0
+  - first:
+      213: -3719603676198374974
+    second: gacha_card_effect_1
+  - first:
+      213: 6144564706457516921
+    second: gacha_card_effect_2
+  - first:
+      213: -7998330794887494219
+    second: gacha_card_effect_3
+  - first:
+      213: 6565277045156110262
+    second: gacha_card_effect_4
+  - first:
+      213: 2170913759801198905
+    second: gacha_card_effect_5
+  - first:
+      213: 7206729970439354756
+    second: gacha_card_effect_6
+  - first:
+      213: -1477811890435068083
+    second: gacha_card_effect_7
+  - first:
+      213: -6813829221115668478
+    second: gacha_card_effect_8
+  - first:
+      213: 4805382330525110941
+    second: gacha_card_effect_9
+  - first:
+      213: 3502696650003946471
+    second: gacha_card_effect_10
+  - first:
+      213: -6256487481284818359
+    second: gacha_card_effect_11
+  - first:
+      213: -8376613254081145283
+    second: gacha_card_effect_12
+  - first:
+      213: 6986898993871849716
+    second: gacha_card_effect_13
+  - first:
+      213: 2077014860259140522
+    second: gacha_card_effect_14
+  - first:
+      213: -4112878213683584156
+    second: gacha_card_effect_15
+  - first:
+      213: -4447376887875626448
+    second: gacha_card_effect_16
+  - first:
+      213: 9173035390744293967
+    second: gacha_card_effect_17
+  - first:
+      213: 4890128462024674237
+    second: gacha_card_effect_18
+  - first:
+      213: 6964966836707984134
+    second: gacha_card_effect_19
+  - first:
+      213: -5848986715699293760
+    second: gacha_card_effect_20
+  - first:
+      213: -7282418848370943660
+    second: gacha_card_effect_21
+  - first:
+      213: 3874049571230908563
+    second: gacha_card_effect_22
+  - first:
+      213: 1867702237610036684
+    second: gacha_card_effect_23
+  - first:
+      213: 8289987269806077134
+    second: gacha_card_effect_24
+  - first:
+      213: 2654289744696546489
+    second: gacha_card_effect_25
+  - first:
+      213: 2694415409523989255
+    second: gacha_card_effect_26
+  - first:
+      213: 1931892380620962208
+    second: gacha_card_effect_27
+  - first:
+      213: 6187604630505725939
+    second: gacha_card_effect_28
+  - first:
+      213: -6050044647674533029
+    second: gacha_card_effect_29
+  - first:
+      213: 4477346151095707128
+    second: gacha_card_effect_30
+  - first:
+      213: -8646439122402065454
+    second: gacha_card_effect_31
+  - first:
+      213: -4409398232901284442
+    second: gacha_card_effect_32
+  - first:
+      213: -285447946217607955
+    second: gacha_card_effect_33
+  - first:
+      213: -8596728533110941503
+    second: gacha_card_effect_34
+  - first:
+      213: 6107185519849624710
+    second: gacha_card_effect_35
+  - first:
+      213: -2266664215955150136
+    second: gacha_card_effect_36
+  - first:
+      213: -7656793619279293699
+    second: gacha_card_effect_37
+  - first:
+      213: -5902001546291951707
+    second: gacha_card_effect_38
+  - first:
+      213: 4789333754087394831
+    second: gacha_card_effect_39
+  - first:
+      213: -5086398680347189154
+    second: gacha_card_effect_40
+  - first:
+      213: 5110671485095922560
+    second: gacha_card_effect_41
+  - first:
+      213: -2641604215830754997
+    second: gacha_card_effect_42
+  - first:
+      213: -6566570682600092078
+    second: gacha_card_effect_43
+  - first:
+      213: -6420204287706696184
+    second: gacha_card_effect_44
+  - first:
+      213: -2577989421530354464
+    second: gacha_card_effect_45
+  - first:
+      213: -4483755461073392330
+    second: gacha_card_effect_46
+  - first:
+      213: -8304932513753227301
+    second: gacha_card_effect_47
+  - first:
+      213: 1705472065151684617
+    second: gacha_card_effect_48
+  - first:
+      213: -5344605597400750587
+    second: gacha_card_effect_49
+  - first:
+      213: -6240435823606252302
+    second: gacha_card_effect_50
+  - first:
+      213: -3959668781612852480
+    second: gacha_card_effect_51
+  - first:
+      213: 1207478792830732784
+    second: gacha_card_effect_52
+  - first:
+      213: 5926343202116736337
+    second: gacha_card_effect_53
+  - first:
+      213: 2341555439165585805
+    second: gacha_card_effect_54
+  - first:
+      213: -3685905411771073978
+    second: gacha_card_effect_55
+  - first:
+      213: -2073591240817456404
+    second: gacha_card_effect_56
+  - first:
+      213: -3064085860492843876
+    second: gacha_card_effect_57
+  - first:
+      213: -803504662957111320
+    second: gacha_card_effect_58
+  - first:
+      213: -7622591028741090198
+    second: gacha_card_effect_59
+  - first:
+      213: -905351913180240956
+    second: gacha_card_effect_60
+  - first:
+      213: 345545655307163603
+    second: gacha_card_effect_61
+  - first:
+      213: 6124173373873489728
+    second: gacha_card_effect_62
+  - first:
+      213: -5350491707559596596
+    second: gacha_card_effect_63
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gacha_card_effect_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3072
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad0fae4babaec2c0800000000000000
+      internalID: -4409398232901284442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_card_effect_33
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3072
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deca5d3fa92e90cf0800000000000000
+      internalID: -285447946217607955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_card_effect_34
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 3072
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8157152f842b880800000000000000
+      internalID: -8596728533110941503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_card_effect_35
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 3072
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684db008fd411c450800000000000000
+      internalID: 6107185519849624710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_card_effect_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2048
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e50e3ef595b7969b0800000000000000
+      internalID: -5086398680347189154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_card_effect_41
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2048
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b4cd063a0cce640800000000000000
+      internalID: 5110671485095922560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_card_effect_42
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2048
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49cb3626f2275bd0800000000000000
+      internalID: -2641604215830754997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_card_effect_43
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2048
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e802f51caded4a0800000000000000
+      internalID: -6566570682600092078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_card_effect_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900d7b9aecd0ba710800000000000000
+      internalID: 1705472065151684617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_card_effect_49
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5062d5ea68524d5b0800000000000000
+      internalID: -5344605597400750587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_card_effect_50
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1024
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fcb3528ea48569a0800000000000000
+      internalID: -6240435823606252302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_card_effect_51
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1024
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b13cbe83e6c09c0800000000000000
+      internalID: -3959668781612852480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_card_effect_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceac6b9b0cf1933e0800000000000000
+      internalID: -2073591240817456404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_card_effect_57
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94e604e42e2a75d0800000000000000
+      internalID: -3064085860492843876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_card_effect_58
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7421524c069d4f0800000000000000
+      internalID: -803504662957111320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_card_effect_59
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 0
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a64dec778dd173690800000000000000
+      internalID: -7622591028741090198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_card_effect_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7168
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 885c647541b1a9b50800000000000000
+      internalID: 6600617978042434952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_card_effect_1
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 7168
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d50426b716c7610800000000000000
+      internalID: 1620277148503792958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_card_effect_2
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 7168
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4503553d3bddd62f0800000000000000
+      internalID: -977881779655069612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_card_effect_3
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 7168
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5056f782743e63ba0800000000000000
+      internalID: -6109445949719878395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_card_effect_4
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 7168
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf2ef2cfa667a040800000000000000
+      internalID: 4658805244614815659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_card_effect_5
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 7168
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d885a83e5514690800000000000000
+      internalID: -7619714658767172311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_card_effect_6
+      rect:
+        serializedVersion: 2
+        x: 6144
+        y: 7168
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd59d1ee0065b3f0800000000000000
+      internalID: -885696134673506827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_card_effect_7
+      rect:
+        serializedVersion: 2
+        x: 7168
+        y: 7168
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8175fbae0b1041240800000000000000
+      internalID: 4761432565401736984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_card_effect_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6144
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef44726c047c52ad0800000000000000
+      internalID: -2727554918286670594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_card_effect_9
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 6144
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163d8fbcb9b6c3490800000000000000
+      internalID: -7765213340607392927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_card_effect_10
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 6144
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ecd658105adcbc0800000000000000
+      internalID: -3761168687832379763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_card_effect_11
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 6144
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852395a45075f0400800000000000000
+      internalID: 292548181036184152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_card_effect_12
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 6144
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1693186972f8b60800000000000000
+      internalID: 7750457011094512078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_card_effect_13
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 6144
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733b3b5f587064eb0800000000000000
+      internalID: -4736089686199258313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_card_effect_14
+      rect:
+        serializedVersion: 2
+        x: 6144
+        y: 6144
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca0d7df368b34500800000000000000
+      internalID: 379349533223357129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_card_effect_15
+      rect:
+        serializedVersion: 2
+        x: 7168
+        y: 6144
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96498bc821f56eff0800000000000000
+      internalID: -7213816119520151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_card_effect_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5120
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4832feed0db2c90800000000000000
+      internalID: -7193426323880835878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_card_effect_17
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 5120
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd0891732f3a3a70800000000000000
+      internalID: 8807421442738621877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_card_effect_18
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 5120
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3352724ada6b320800000000000000
+      internalID: 2573435157631808458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_card_effect_19
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 5120
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd22b377da538ef80800000000000000
+      internalID: -8077146912543005989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_card_effect_20
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 5120
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c45d0af6f1301f0800000000000000
+      internalID: -1079984921338622884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_card_effect_21
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 5120
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f67cc871d12cb00800000000000000
+      internalID: 847271666882408255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_card_effect_22
+      rect:
+        serializedVersion: 2
+        x: 6144
+        y: 5120
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71856e09f16e8b580800000000000000
+      internalID: -8811039647700985833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_card_effect_23
+      rect:
+        serializedVersion: 2
+        x: 7168
+        y: 5120
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6215ffd75f049400800000000000000
+      internalID: 329905542798840430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_card_effect_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4096
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a6bf28c33769410800000000000000
+      internalID: 1483499830997904009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_card_effect_25
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 4096
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 066c12f87fef1c0d0800000000000000
+      internalID: -3404159504103651744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_card_effect_26
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 4096
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8015124b91d7b0520800000000000000
+      internalID: 2669364753496887560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_card_effect_27
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 4096
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9288dc9ef4f06b0800000000000000
+      internalID: -5327951968561780291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_card_effect_28
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 4096
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2692610e852a980800000000000000
+      internalID: -8529157024818568491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_card_effect_29
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 4096
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823d0eac3f3900cd0800000000000000
+      internalID: -2593910710075337944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_card_effect_30
+      rect:
+        serializedVersion: 2
+        x: 6144
+        y: 4096
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06fc838f59b0f1e80800000000000000
+      internalID: -8205827257303249056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_card_effect_31
+      rect:
+        serializedVersion: 2
+        x: 7168
+        y: 4096
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603e0a78c722607c0800000000000000
+      internalID: -4105556092054871290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_card_effect_36
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 3072
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b27b20b5c8cabaa0800000000000000
+      internalID: -6144377990203870538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_card_effect_37
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 3072
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00818000c34fa42a0800000000000000
+      internalID: -6752316152752891904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_card_effect_38
+      rect:
+        serializedVersion: 2
+        x: 6144
+        y: 3072
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ca33fa2c1f29a50800000000000000
+      internalID: 6526544628478618681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_card_effect_39
+      rect:
+        serializedVersion: 2
+        x: 7168
+        y: 3072
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a602ea2a181f8da0800000000000000
+      internalID: -5940502882810722653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_card_effect_44
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 2048
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b404c3fa50719920800000000000000
+      internalID: 2995298763117167793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_card_effect_45
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 2048
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b52daedf3d16470800000000000000
+      internalID: 8386217068660415295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_card_effect_46
+      rect:
+        serializedVersion: 2
+        x: 6144
+        y: 2048
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21d6db4772aa35e0800000000000000
+      internalID: -1929050857117658834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_card_effect_47
+      rect:
+        serializedVersion: 2
+        x: 7168
+        y: 2048
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8373af91b00055f60800000000000000
+      internalID: 8022318358910875448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_card_effect_52
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 1024
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc31f7273d48fbd10800000000000000
+      internalID: 2143577991345542093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_card_effect_53
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 1024
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc6003b69ad448f0800000000000000
+      internalID: -557080113103999789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_card_effect_54
+      rect:
+        serializedVersion: 2
+        x: 6144
+        y: 1024
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508a1c55caff2c120800000000000000
+      internalID: 2432787864371701765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_card_effect_55
+      rect:
+        serializedVersion: 2
+        x: 7168
+        y: 1024
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f2949496f172fd00800000000000000
+      internalID: 1004990970725700345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_card_effect_60
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 0
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bac049afddb18250800000000000000
+      internalID: 5945241751420717745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_card_effect_61
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 0
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e891a727a486ec220800000000000000
+      internalID: 2508056711449418126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_card_effect_62
+      rect:
+        serializedVersion: 2
+        x: 6144
+        y: 0
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a2fd82929231ec0800000000000000
+      internalID: -3597486420582782439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gacha_card_effect_63
+      rect:
+        serializedVersion: 2
+        x: 7168
+        y: 0
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42754b9db33b83250800000000000000
+      internalID: 5924682379442804516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

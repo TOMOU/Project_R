@@ -1,0 +1,8 @@
+﻿int,string,float,float
+ID,EffectName,MoveSpeeed,ActiveTime
+1002111,lillith_skull,10,10
+1030311,pandora_attack,10,10
+1002113,lillith_skill3_2,3,1.5
+1030313,pandora_skill3_2,3,1.5
+1040011,fireball,10,10
+109001,큐븣,10,10

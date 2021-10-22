@@ -1,0 +1,104 @@
+
+jinshi_minion_spear.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bone_guide
+  rotate: false
+  xy: 2, 1699
+  size: 1914, 2381
+  orig: 1916, 2383
+  offset: 1, 1
+  index: -1
+m_body
+  rotate: false
+  xy: 659, 526
+  size: 619, 627
+  orig: 623, 631
+  offset: 2, 3
+  index: -1
+m_e_attack
+  rotate: false
+  xy: 659, 290
+  size: 548, 234
+  orig: 554, 236
+  offset: 1, 1
+  index: -1
+m_e_die
+  rotate: false
+  xy: 1280, 624
+  size: 575, 245
+  orig: 577, 247
+  offset: 1, 1
+  index: -1
+m_e_normal
+  rotate: false
+  xy: 1156, 2
+  size: 529, 205
+  orig: 532, 207
+  offset: 2, 1
+  index: -1
+m_e_victory
+  rotate: false
+  xy: 626, 76
+  size: 528, 212
+  orig: 531, 216
+  offset: 1, 3
+  index: -1
+m_fire
+  rotate: true
+  xy: 1280, 871
+  size: 282, 584
+  orig: 282, 584
+  offset: 0, 0
+  index: -1
+m_head
+  rotate: false
+  xy: 1910, 838
+  size: 767, 859
+  orig: 771, 861
+  offset: 2, 1
+  index: -1
+m_la
+  rotate: false
+  xy: 1280, 209
+  size: 329, 413
+  orig: 332, 417
+  offset: 2, 3
+  index: -1
+m_ll
+  rotate: true
+  xy: 339, 196
+  size: 229, 285
+  orig: 232, 289
+  offset: 2, 3
+  index: -1
+m_neck
+  rotate: true
+  xy: 2, 427
+  size: 726, 655
+  orig: 729, 657
+  offset: 2, 1
+  index: -1
+m_ra
+  rotate: false
+  xy: 2, 49
+  size: 335, 376
+  orig: 338, 381
+  offset: 1, 3
+  index: -1
+m_rl
+  rotate: false
+  xy: 1611, 347
+  size: 210, 275
+  orig: 212, 277
+  offset: 1, 1
+  index: -1
+m_spear
+  rotate: true
+  xy: 2, 1155
+  size: 542, 1906
+  orig: 545, 1909
+  offset: 2, 2
+  index: -1

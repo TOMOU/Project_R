@@ -1,0 +1,22 @@
+index	name	end
+0	0	none
+1	릴리스	none
+2	치우	none
+3	진시황	none
+4	알렉산더	none
+5	판도라	none
+6	이집트	none
+7	일본	none
+9999	설명	none
+10000	J	none
+10001	광신도	none
+10002	산적	none
+10003	순찰대장	none
+10004	시종 돌이	none
+10005	마을사람1	none
+10006	마을사람2	none
+10007	마을사람3	none
+20000	?	none
+20001	??	none
+20002	???	none
+20003	????	none

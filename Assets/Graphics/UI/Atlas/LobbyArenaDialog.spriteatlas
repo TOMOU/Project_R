@@ -1,0 +1,156 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: LobbyArenaDialog
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: c086f14dddbcf304aa4cf6539814292c, type: 3}
+    totalSpriteSurfaceArea: 10815742
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 4861b310ea4f4e5448e7675e1613bfd8, type: 3}
+  - {fileID: 21300000, guid: 82d79a90f4fcab749a57e399cee8ac3f, type: 3}
+  - {fileID: 21300000, guid: 824605c00102ab9478dadfa0bcff9cee, type: 3}
+  - {fileID: 21300000, guid: 6521dec09dfc83f44b1c68afd0f0590f, type: 3}
+  - {fileID: 21300000, guid: df5377118252ad14fae61de4da2b7989, type: 3}
+  - {fileID: 21300000, guid: 223728318704b1441b6444fba51b5e20, type: 3}
+  - {fileID: 21300000, guid: 1669ef812aa3f184b8bb8ddf5ad1aafe, type: 3}
+  - {fileID: 21300000, guid: 8bef28c1ec37bdc4a88b5b5d5954d5c5, type: 3}
+  - {fileID: 21300000, guid: a6b869121b69f484e8c057e249ad73f4, type: 3}
+  - {fileID: 21300000, guid: 7e02db22a5eacc548929efec3b55d29d, type: 3}
+  - {fileID: 21300000, guid: 45b29e52fa9198041b6bd0674e09d18a, type: 3}
+  - {fileID: 21300000, guid: 63d3aa72faa25fb4f9b679f82b55375a, type: 3}
+  - {fileID: 21300000, guid: 8251a992b076a254fb4c598b4277165c, type: 3}
+  - {fileID: 21300000, guid: d0bf16e31f773f04c9e44687a86ce95d, type: 3}
+  - {fileID: 21300000, guid: a2241224b3ab7a34c84ee4934241b501, type: 3}
+  - {fileID: 21300000, guid: 1cea4944906ef7642a5a308c6e9aa629, type: 3}
+  - {fileID: 21300000, guid: f9c35eb4a3cbba44f9ba449ee4752993, type: 3}
+  - {fileID: 21300000, guid: 633456c480120f748baed2e3087b7f65, type: 3}
+  - {fileID: 21300000, guid: a9f893751a0a7aa48a7edec08d351004, type: 3}
+  - {fileID: 21300000, guid: 56d93af5c25c1df4f8d91f1686658082, type: 3}
+  - {fileID: 21300000, guid: 1bf83176ccfb692439d24a690e85a108, type: 3}
+  - {fileID: 21300000, guid: a475b907725dcac4b970680f09607f6b, type: 3}
+  - {fileID: 21300000, guid: ae371847c458d74489bfa646c9be5310, type: 3}
+  - {fileID: 21300000, guid: 377925d74ef11f94eaf6601dd412d694, type: 3}
+  - {fileID: 21300000, guid: aabb96d7c5ee6734ab6d1ac6aa1a9df9, type: 3}
+  - {fileID: 21300000, guid: d844a03826369ed41958f109194a0a85, type: 3}
+  - {fileID: 21300000, guid: 177b7b38544d2b544b46679422b19205, type: 3}
+  - {fileID: 21300000, guid: d83e25585a70588438446d164227e13f, type: 3}
+  - {fileID: 21300000, guid: e10e49a8dda465740a11bdd3e2faa5bb, type: 3}
+  - {fileID: 21300000, guid: 46254909827989345aca879c73c05512, type: 3}
+  - {fileID: 21300000, guid: 313d49591f590bb41b63cec28a10804e, type: 3}
+  - {fileID: 21300000, guid: ffb27b99ccb529e4082eede4b7991886, type: 3}
+  - {fileID: 21300000, guid: c4a151c9cec6fe6438f9b93f0664ccf4, type: 3}
+  - {fileID: 21300000, guid: 8962f83ac8c59c648ad8b09f83d7ceb5, type: 3}
+  - {fileID: 21300000, guid: 835c1b5af23ec634ab7f473b999d5e0a, type: 3}
+  - {fileID: 21300000, guid: 7cf6749a1dc5a774296792239d53860d, type: 3}
+  - {fileID: 21300000, guid: 43b288fa1629aab4694bca2c7aa7768c, type: 3}
+  - {fileID: 21300000, guid: 32c5438b28f22bc489f4a71db4f4ab5e, type: 3}
+  - {fileID: 21300000, guid: eee03abbc3e144141a0a6721f63c9303, type: 3}
+  - {fileID: 21300000, guid: ce58c92c1c51d8948947753281834fc4, type: 3}
+  - {fileID: 21300000, guid: 93b8543c0ea3d0b42835e5ba3d322ca9, type: 3}
+  - {fileID: 21300000, guid: b8966e3cd00c47c4db2b375c894e283d, type: 3}
+  - {fileID: 21300000, guid: 2799627ca0022484086d234fb1f2b54c, type: 3}
+  - {fileID: 21300000, guid: 1659689c835f42d4d9b5ca762fb024b0, type: 3}
+  - {fileID: 21300000, guid: 360133ec87db3b3419af4a0d9f7b1519, type: 3}
+  - {fileID: 21300000, guid: 1bbeaffcb39388c41b1f7ccfc0261566, type: 3}
+  - {fileID: 21300000, guid: b98e780da4d2fda4ab23a78df4ff414c, type: 3}
+  - {fileID: 21300000, guid: 6578a61d8c1cbbc47b4424f4b734387d, type: 3}
+  - {fileID: 21300000, guid: 785d333d75fd10740a68861edbda6142, type: 3}
+  - {fileID: 21300000, guid: b899945d8b35f674486e430b22627811, type: 3}
+  - {fileID: 21300000, guid: 556426adc3a9da94c9d14dfcfc0c7288, type: 3}
+  - {fileID: 21300000, guid: fdd99ecdf3bb8ac459ad5677332f939d, type: 3}
+  - {fileID: 21300000, guid: 9b9cbddd12740f844af61d045a87c520, type: 3}
+  - {fileID: 21300000, guid: ffb0d06edfff4a449923f5e6f0221b03, type: 3}
+  - {fileID: 21300000, guid: 8549e36e2efc28b48b69529959c25b0b, type: 3}
+  - {fileID: 21300000, guid: 2cf61d8fd8fc22843ab1629f82ade83b, type: 3}
+  - {fileID: 21300000, guid: 5122aacfb7a31d046b81b95911b65d42, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - colosseum_formation_base_13
+  - colosseum_img_board_bottom
+  - colosseum_formation_base_33
+  - colosseum_formation_empty_32
+  - colosseum_formation_in_31
+  - colosseum_formation_base_31
+  - colosseum_formation_in_33
+  - colosseum_formation_empty_22
+  - colosseum_img_toggle_selected
+  - colosseum_formation_base_22
+  - colosseum_formation_empty_31
+  - colosseum_img_versus
+  - colosseum_formation_in_12
+  - colosseum_img_iconFormation
+  - colosseum_formation_in_32
+  - colosseum_slider_time_base
+  - colosseum_btn_arenaInfo
+  - colosseum_formation_base_11
+  - colosseum_img_cardslot_frame
+  - colosseum_btn_challenge_random
+  - colosseum_img_slider_base
+  - colosseum_img_diamondIcon
+  - colosseum_img_board_arenaInfo
+  - colosseum_formation_in_21
+  - colosseum_formation_empty_11
+  - colosseum_formation_empty_33
+  - colosseum_btn_close
+  - colosseum_formation_in_13
+  - colosseum_formation_in_23
+  - colosseum_formation_base_21
+  - colosseum_formation_empty_13
+  - colosseum_img_icon_stamina
+  - colosseum_formation_base_12
+  - colosseum_formation_in_11
+  - colosseum_formation_base_32
+  - colosseum_img_board_bottom_sep
+  - colosseum_formation_empty_21
+  - colosseum_btn_select
+  - colosseum_btn_challenge
+  - colosseum_btn_upgradeFormation
+  - colosseum_img_versus_eff
+  - colosseum_img_slider_value
+  - colosseum_formation_base_23
+  - colosseum_img_cardslot_shadow
+  - colosseum_btn_battlestart
+  - colosseum_img_cardslot_grade
+  - colosseum_formation_in_22
+  - colosseum_formation_empty_23
+  - colosseum_btn_formation2
+  - colosseum_btn_refresh_free
+  - colosseum_img_board_challenge
+  - colosseum_formation_empty_12
+  - colosseum_img_cardslot_background
+  - colosseum_btn_seasonReward
+  - colosseum_btn_formation
+  - colosseum_img_ranking
+  - colosseum_slider_time_value
+  m_Tag: LobbyArenaDialog
+  m_IsVariant: 0

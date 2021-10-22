@@ -1,0 +1,69 @@
+
+slime.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dust
+  rotate: false
+  xy: 2, 513
+  size: 910, 653
+  orig: 910, 653
+  offset: 0, 0
+  index: -1
+e-dust
+  rotate: false
+  xy: 803, 1805
+  size: 313, 133
+  orig: 315, 135
+  offset: 1, 1
+  index: -1
+e-fire
+  rotate: false
+  xy: 1564, 1770
+  size: 357, 168
+  orig: 359, 170
+  offset: 1, 1
+  index: -1
+e-hit
+  rotate: false
+  xy: 1118, 1793
+  size: 444, 145
+  orig: 446, 147
+  offset: 1, 1
+  index: -1
+e-poison
+  rotate: false
+  xy: 414, 1827
+  size: 387, 111
+  orig: 389, 113
+  offset: 1, 1
+  index: -1
+e-water
+  rotate: false
+  xy: 2, 1853
+  size: 410, 85
+  orig: 412, 87
+  offset: 1, 1
+  index: -1
+fire
+  rotate: false
+  xy: 914, 421
+  size: 909, 745
+  orig: 909, 745
+  offset: 0, 0
+  index: -1
+poison
+  rotate: false
+  xy: 913, 1168
+  size: 1025, 600
+  orig: 1025, 600
+  offset: 0, 0
+  index: -1
+water
+  rotate: false
+  xy: 2, 1242
+  size: 909, 561
+  orig: 909, 561
+  offset: 0, 0
+  index: -1

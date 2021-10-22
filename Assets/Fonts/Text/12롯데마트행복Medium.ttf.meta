@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 0378bdf7b4fa6324fa6873e2577183da
+timeCreated: 1600246426
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: 12LotteMartHappyMedium
+  fontNames:
+  - 12LotteMartHappyMedium
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,104 @@
+
+mad.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LA
+  rotate: true
+  xy: 229, 1039
+  size: 182, 304
+  orig: 184, 306
+  offset: 1, 1
+  index: -1
+LA-p
+  rotate: true
+  xy: 535, 1039
+  size: 182, 304
+  orig: 184, 306
+  offset: 1, 1
+  index: -1
+RA
+  rotate: false
+  xy: 1427, 384
+  size: 184, 268
+  orig: 184, 268
+  offset: 0, 0
+  index: -1
+RA-p
+  rotate: true
+  xy: 1427, 198
+  size: 184, 268
+  orig: 184, 268
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 1169, 1476
+  size: 513, 820
+  orig: 513, 820
+  offset: 0, 0
+  index: -1
+body-p
+  rotate: false
+  xy: 1427, 654
+  size: 513, 820
+  orig: 513, 820
+  offset: 0, 0
+  index: -1
+e-die
+  rotate: false
+  xy: 1613, 493
+  size: 211, 159
+  orig: 213, 163
+  offset: 1, 2
+  index: -1
+e-hit
+  rotate: false
+  xy: 1169, 1350
+  size: 218, 124
+  orig: 220, 127
+  offset: 1, 2
+  index: -1
+eye
+  rotate: true
+  xy: 841, 1062
+  size: 159, 93
+  orig: 161, 95
+  offset: 1, 1
+  index: -1
+hood
+  rotate: true
+  xy: 2, 100
+  size: 766, 938
+  orig: 766, 938
+  offset: 0, 0
+  index: -1
+hood-p
+  rotate: true
+  xy: 229, 1223
+  size: 766, 938
+  orig: 766, 938
+  offset: 0, 0
+  index: -1
+medal
+  rotate: true
+  xy: 1169, 1223
+  size: 125, 183
+  orig: 127, 185
+  offset: 1, 1
+  index: -1
+sickle
+  rotate: false
+  xy: 942, 125
+  size: 483, 1096
+  orig: 485, 1098
+  offset: 1, 1
+  index: -1
+staff
+  rotate: false
+  xy: 2, 868
+  size: 225, 1121
+  orig: 227, 1123
+  offset: 1, 1
+  index: -1

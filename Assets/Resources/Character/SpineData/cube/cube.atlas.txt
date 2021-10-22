@@ -1,0 +1,83 @@
+
+cube.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+D_1
+  rotate: false
+  xy: 2, 2
+  size: 1324, 882
+  orig: 1324, 882
+  offset: 0, 0
+  index: -1
+D_3
+  rotate: false
+  xy: 2, 2
+  size: 1324, 882
+  orig: 1324, 882
+  offset: 0, 0
+  index: -1
+D_2
+  rotate: true
+  xy: 898, 886
+  size: 1324, 882
+  orig: 1324, 882
+  offset: 0, 0
+  index: -1
+D_4
+  rotate: true
+  xy: 898, 886
+  size: 1324, 882
+  orig: 1324, 882
+  offset: 0, 0
+  index: -1
+Db_1
+  rotate: true
+  xy: 2, 886
+  size: 1324, 894
+  orig: 1324, 894
+  offset: 0, 0
+  index: -1
+M
+  rotate: false
+  xy: 2, 2212
+  size: 1462, 1462
+  orig: 1462, 1462
+  offset: 0, 0
+  index: -1
+U_1
+  rotate: false
+  xy: 1328, 2
+  size: 1324, 882
+  orig: 1324, 882
+  offset: 0, 0
+  index: -1
+U_3
+  rotate: false
+  xy: 1328, 2
+  size: 1324, 882
+  orig: 1324, 882
+  offset: 0, 0
+  index: -1
+U_2
+  rotate: true
+  xy: 1466, 2350
+  size: 1324, 882
+  orig: 1324, 882
+  offset: 0, 0
+  index: -1
+U_4
+  rotate: true
+  xy: 1466, 2350
+  size: 1324, 882
+  orig: 1324, 882
+  offset: 0, 0
+  index: -1
+Ub_1
+  rotate: true
+  xy: 1782, 1024
+  size: 1324, 882
+  orig: 1324, 882
+  offset: 0, 0
+  index: -1

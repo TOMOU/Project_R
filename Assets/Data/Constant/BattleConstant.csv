@@ -1,0 +1,92 @@
+﻿Position,,
+0,None,없음
+1,Front,전열
+2,Middle,중열
+3,Back,후열
+999,Max,
+END,,
+BasicAttackType,,
+0,None,없음
+1,Physics,물리공격
+2,Magic,마법공격
+999,Max,
+END,,
+SkillType,,
+0,None,없음
+1,Damage,데미지
+2,Heal,힐
+3,Buff,버프
+4,Debuff,디버프
+999,Max,
+END,,
+SkillTeam,,
+0,None,없음
+1,Ally,아군
+2,Enemy,적군
+999,Max,
+END,,
+SkillTarget,,
+0,None,없음
+1,All,전체
+2,Area,범위
+3,One,한명
+4,Me,자기자신
+5,HP,체력이 가장 낮은
+6,One_Second,두번째
+7,One_Third,세번째
+8,One_Fourth,네번째
+9,One_Fifth,다섯번째
+10,Two,두명
+11,Three,세명
+12,Four,네명
+13,Random,랜덤
+999,Max,
+END,,
+SkillProperty,,
+0,None,없음
+1,PhysicalDamage,물리 데미지
+2,MagicalDamage,마법 데미지
+3,PhysicalDefence,물리 방어력
+4,MagicalDefence,마법 방어력
+5,Critical,치명율
+6,TP,TP
+7,Speed,공격속도
+8,PhysicalShield,물리 실드
+9,MagicalShield,마법 실드
+10,Heal_Oneshot,단일힐
+11,Heal_Tick,도트힐
+12,Blind,실명
+13,Burn,화상
+14,KnockBack,넉백
+15,Stun,스턴
+16,Silence,침묵
+17,AbsorbHP,흡혈
+999,Max,
+END,,
+UnitState,,
+0,None,
+1,Idle,대기
+2,Run,이동
+3,Attack,평타
+4,Skill0,궁스킬
+5,Skill1,스킬1
+6,Skill2,스킬2
+7,Hit,타격받음
+8,Victory,승리
+9,Die,죽음
+999,Max,
+END,,
+BattlePhase,,
+0,None,
+1,MoveToBase,시작지점으로 이동
+2,StartBattle,전투 시작
+3,BattleNext,다음맵으로 이동
+4,BattleEnd,전투 종료 (결과화면)
+999,Max,
+END,,
+Team,,
+0,None,
+1,Blue,아군
+2,Red,적군
+999,Max,
+END,,

@@ -1,0 +1,12 @@
+﻿int,int,Constant.StageType,Constant.MapName,int,int,int,int,int,int,int
+chapter,stage,stageType,mapName,reqStamina,exp,coinMin,coinMax,wave1,wave2,wave3
+1,1,Normal,bg_100181,10,15,200,300,0,0,0
+1,2,Normal,bg_100181,10,15,200,300,0,0,0
+1,3,Normal,bg_100181,10,15,200,300,0,0,0
+1,4,Normal,bg_100181,10,15,200,300,0,0,0
+1,5,Normal,bg_100181,10,15,200,300,0,0,0
+1,6,Normal,bg_100181,10,15,200,300,0,0,0
+1,7,Normal,bg_100181,10,15,200,300,0,0,0
+1,8,Normal,bg_100181,10,15,200,300,0,0,0
+1,9,Normal,bg_100181,10,15,200,300,0,0,0
+1,10,Boss,bg_100181,10,15,200,300,0,0,0

@@ -1,0 +1,41 @@
+
+scene.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+left_1
+  rotate: false
+  xy: 2, 854
+  size: 557, 151
+  orig: 557, 161
+  offset: 0, 5
+  index: -1
+left_2
+  rotate: false
+  xy: 561, 795
+  size: 301, 210
+  orig: 305, 217
+  offset: 0, 4
+  index: -1
+right1
+  rotate: true
+  xy: 2, 406
+  size: 267, 279
+  orig: 269, 285
+  offset: 0, 2
+  index: -1
+right2
+  rotate: false
+  xy: 2, 675
+  size: 515, 177
+  orig: 517, 187
+  offset: 0, 4
+  index: -1
+right3
+  rotate: false
+  xy: 519, 568
+  size: 486, 225
+  orig: 486, 228
+  offset: 0, 3
+  index: -1

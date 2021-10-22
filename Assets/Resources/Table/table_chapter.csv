@@ -1,0 +1,8 @@
+﻿int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,
+index,type,cha_id,chapter,reward_count,star_value_1,item_1_id,item_1_value,star_value_2,item_2_id,item_2_value,star_value_3,item_3_id,item_3_value,star_value_4,item_4_id,item_4_value,star_value_5,item_5_id,item_5_value,end
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,none
+1,1,0,1,4,3,1,50,6,1,100,9,1,150,12,1,300,0,0,0,none
+2,1,0,2,4,3,1,50,6,1,100,9,1,150,12,1,300,0,0,0,none
+3,1,0,3,4,3,1,50,6,1,100,9,1,150,12,1,300,0,0,0,none
+4,1,0,4,3,1,1,50,2,1,100,3,1,150,0,0,0,0,0,0,none
+5,1,1,1,4,3,1,50,6,1,100,9,1,150,12,1,300,0,0,0,none

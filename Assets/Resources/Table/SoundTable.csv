@@ -1,0 +1,15 @@
+﻿int,Constant.SoundType,Constant.SoundName,float,bool
+index,type,name,volumm,isLoop
+1,BGM,Title,1,TRUE
+2,BGM,Scene,1,TRUE
+3,BGM,Battle,1,TRUE
+4,FX,Attack_Sword_1,1,FALSE
+5,FX,Attack_Sword_2,1,FALSE
+6,FX,Attack_Sword_3,1,FALSE
+7,FX,Magic_Attack_1,1,FALSE
+8,FX,Magic_Attack_2,1,FALSE
+9,FX,Magic_Attack_3,1,FALSE
+10,FX,Magic_Skill_1,1,FALSE
+11,FX,Magic_Skill_2,1,FALSE
+12,FX,Button,1,FALSE
+13,FX,Scene_Skill,1,FALSE

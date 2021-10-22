@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: LobbyMainChapterDialog
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 419988fcc111a404499a83e61f2e27f4, type: 3}
+    totalSpriteSurfaceArea: 4752652
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: b38e2704e09973546b70e971fc415b5d, type: 3}
+  - {fileID: 21300000, guid: fc569f04a95e3ae489aa2692d331f022, type: 3}
+  - {fileID: 21300000, guid: 5ac029359e7398e47904f3e27b97b5f1, type: 3}
+  - {fileID: 21300000, guid: 9967d6183a59c4944a7ff0203e12bf3e, type: 3}
+  - {fileID: 21300000, guid: 25b4a598da52a8445a01c426d0e8c897, type: 3}
+  - {fileID: 21300000, guid: 6ea0bf3a36fadca408e5e4891bdf8caf, type: 3}
+  - {fileID: 21300000, guid: fd4c097a7f1524143b775ae856816460, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - mask_board
+  - mainChap_CompleteReward
+  - mainchap_btn_chapter
+  - mainchap_btn_level
+  - Frame_StorySlot
+  - stage_slot_star
+  - BG_MainChap
+  m_Tag: LobbyMainChapterDialog
+  m_IsVariant: 0

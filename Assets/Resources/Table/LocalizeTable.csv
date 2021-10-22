@@ -1,0 +1,57 @@
+﻿10000,Global,게임 종료
+10001,Global,게임을 종료하시겠습니까?
+10002,Global,예
+10003,Global,아니오
+10004,Global,화면을 터치해 주세요.
+10005,Global,확인
+30000,Battle,일시정지
+30001,Battle,뒤로가기
+30002,Battle,설정
+30003,Battle,포기하기
+30004,Battle,전투 포기
+30005,Battle,전투를 포기하고 로비로 이동하시겠습니까?
+100100211,CharacterInfo,릴리스의 스테이터스 설명입니다.
+101100211,CharacterInfo,릴리스의 프로필 설명입니다.
+102100211,CharacterInfo,15세
+103100211,CharacterInfo,릴리스의 생일
+104100211,CharacterInfo,릴리스의 출신
+105100211,CharacterInfo,릴리스의 특기
+106100211,CharacterInfo,160cm
+107100211,CharacterInfo,릴리스의 체중
+108100211,CharacterInfo,릴리스의 소속
+100101031,CharacterInfo,공격 및 방어 모두 밸런스 있게 갖춘 광기의 검제.</n>강력한 체인소드 스킬을 통해 범위 공격을 하며$</n>체력 흡수를 통해 안정적인 전열 역할을 수행해낸다.
+101101031,CharacterInfo,팔 6개에 눈 4개가 달리고$ 소의 뿔과 발굽$ 구리로 된 머리와 쇠로 된 이마가 있었으며$ 맨몸으로 맹수와 대적할 수 있을 만큼 힘도 굉장히 강했다.</n>도술까지 구사할 수 있어 그 누구도 대적할 수 없었다.
+102101031,CharacterInfo,17세
+103101031,CharacterInfo,치우의 생일
+104101031,CharacterInfo,치우의 출신
+105101031,CharacterInfo,치우의 특기
+106101031,CharacterInfo,172cm
+107101031,CharacterInfo,치우의 체중
+108101031,CharacterInfo,치우의 소속
+100101131,CharacterInfo,진시황의 스테이터스 설명입니다.
+101101131,CharacterInfo,진시황의 프로필 설명입니다.
+102101131,CharacterInfo,12세
+103101131,CharacterInfo,진시황의 생일
+104101131,CharacterInfo,진시황의 출신
+105101131,CharacterInfo,진시황의 특기
+106101131,CharacterInfo,140cm
+107101131,CharacterInfo,진시황의 체중
+108101131,CharacterInfo,진시황의 소속
+100102831,CharacterInfo,알렉산더의 스테이터스 설명입니다.
+101102831,CharacterInfo,알렉산더의 프로필 설명입니다.
+102102831,CharacterInfo,16세
+103102831,CharacterInfo,알렉산더의 생일
+104102831,CharacterInfo,알렉산더의 출신
+105102831,CharacterInfo,알렉산더의 특기
+106102831,CharacterInfo,160cm
+107102831,CharacterInfo,알렉산더의 체중
+108102831,CharacterInfo,알렉산더의 소속
+100103031,CharacterInfo,판도라의 스테이터스 설명입니다.
+101103031,CharacterInfo,판도라의 프로필 설명입니다.
+102103031,CharacterInfo,16세
+103103031,CharacterInfo,판도라의 생일
+104103031,CharacterInfo,판도라의 출신
+105103031,CharacterInfo,판도라의 특기
+106103031,CharacterInfo,164cm
+107103031,CharacterInfo,40kg
+108103031,CharacterInfo,판도라의 소속

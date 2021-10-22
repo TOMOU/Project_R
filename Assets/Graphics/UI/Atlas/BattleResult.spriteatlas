@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BattleResult
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 4d8e99f6a3edef0448ffdb8e95b07cf5, type: 3}
+    totalSpriteSurfaceArea: 11755068
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: ef45d3b0cda058b41953e238c012db89, type: 3}
+  - {fileID: 21300000, guid: 9956d08277bc0c34e9b7eecd3d6157c2, type: 3}
+  - {fileID: 21300000, guid: 30b4c027437e7a148865fb84aad254bb, type: 3}
+  - {fileID: 21300000, guid: 2459b6c7f7bd22c4d8cadd0b55a9d990, type: 3}
+  - {fileID: 21300000, guid: 3a4a4de7e9e28094f8e525fe4aceff58, type: 3}
+  - {fileID: 21300000, guid: 470c635895abf53458765e86b2276638, type: 3}
+  - {fileID: 21300000, guid: 20bc77683f266b641a48c106ce437234, type: 3}
+  - {fileID: 21300000, guid: 978f60c8bc1f8d04ab06339b43a205fd, type: 3}
+  - {fileID: 21300000, guid: 98ce9b5a739618440b15445a2fe1fc3c, type: 3}
+  - {fileID: 21300000, guid: 702d2e9c81eb86a4c94c6b4ab4f3596b, type: 3}
+  - {fileID: 21300000, guid: 3b5b75aca236c794696b50082602e212, type: 3}
+  - {fileID: 21300000, guid: 092d894d0f7786343b08c3b597146882, type: 3}
+  - {fileID: 21300000, guid: 32989abdc00c22049b85f3fbc970805c, type: 3}
+  - {fileID: 21300000, guid: be408f3ee20d7404b9641376b8514784, type: 3}
+  - {fileID: 21300000, guid: 383a87de6c3df9f4aa8cf2c34bf4ab1d, type: 3}
+  - {fileID: 21300000, guid: bb59c26fc1583e349977f628b0c850fe, type: 3}
+  - {fileID: 21300000, guid: 80d89e8f137b53f488dade8a67f9a187, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - result_img_title_deco
+  - result_img_board_charInfo
+  - result_img_deco_lose
+  - result_img_board_timeup
+  - result_img_slider_base
+  - result_img_title_timeup
+  - result_img_board_userInfo
+  - result_img_slider_favor
+  - result_img_title_win
+  - result_img_slider_base2
+  - result_img_slider_exp
+  - result_img_board_lose
+  - result_btn_menu
+  - result_img_board_victory
+  - result_img_board_spine
+  - result_img_card_lose
+  - result_img_title_lose
+  m_Tag: BattleResult
+  m_IsVariant: 0
